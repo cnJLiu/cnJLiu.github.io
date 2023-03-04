@@ -21,7 +21,7 @@ My research focuses on 3D computer vision, deep learning, and their applications
 - *2022.06*: &nbsp;🎉🎉 One paper is accepted by IEEE T-CSVT! 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2022</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2022</div><img src='images/512x512.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [HFF6D: Hierarchical Feature Fusion Network for Robust 6D Object Pose Tracking](https://ieeexplore.ieee.org/abstract/document/9792223)\\
 **Jian Liu**, Wei Sun, Chongpei Liu, Xing Zhang, Shimeng Fan, Wei Wu
@@ -38,9 +38,9 @@ My research focuses on 3D computer vision, deep learning, and their applications
 </div>
  
 # 💻 Projects
-[**Robotic Continuous Grasping System**](https://github.com/CNJianLiu/6D-CLGrasp), [Demo Link1](https://www.bilibili.com/video/BV16M4y1Q7CD) or [Demo Link2](https://youtu.be/ZeGN6_DChuA)
+[**Robotic Continuous Grasping System**](https://github.com/CNJianLiu/6D-CLGrasp) ([Demo Link1](https://www.bilibili.com/video/BV16M4y1Q7CD) or [Demo Link2](https://youtu.be/ZeGN6_DChuA))
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- 
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
