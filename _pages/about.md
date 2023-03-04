@@ -53,10 +53,11 @@ My research focuses on 3D computer vision, deep learning, and 6D object pose est
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
-{% include_relative includes/news.md %}
+<!-- {% include_relative includes/news.md %}
 
 {% include_relative includes/pub.md %}
 
 {% include_relative includes/honers.md %}
 
 {% include_relative includes/others.md %}
+ -->
