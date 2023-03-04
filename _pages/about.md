@@ -22,7 +22,7 @@ My research focuses on 3D computer vision, deep learning, and 6D object pose est
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2022</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box-text' markdown="1"> -->
 [HFF6D: Hierarchical Feature Fusion Network for Robust 6D Object Pose Tracking](https://ieeexplore.ieee.org/abstract/document/9792223)
 **Jian Liu**, Wei Sun, Chongpei Liu, Xing Zhang, Shimeng Fan, Wei Wu
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -31,7 +31,7 @@ My research focuses on 3D computer vision, deep learning, and 6D object pose est
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII 2023</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Robotic Continuous Grasping System by Shape Transformer-Guided Multi-Object Category-Level 6D Pose Estimation](https://ieeexplore.ieee.org/abstract/document/10043016)
+[Robotic Continuous Grasping System by Shape Transformer-Guided Multi-Object Category-Level 6D Pose Estimation](https://ieeexplore.ieee.org/abstract/document/10043016)\\
 **Jian Liu**, Wei Sun, Chongpei Liu, Xing Zhang, Qiang Fu
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
