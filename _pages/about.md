@@ -37,8 +37,8 @@ My research focuses on 3D computer vision, deep learning, and their applications
 </div>
 </div>
  
- # 💻 Projects
-[**Robotic Continuous Grasping System**](https://github.com/CNJianLiu/6D-CLGrasp), [Demo Link1](https://www.bilibili.com/video/BV16M4y1Q7CD) & [Demo Link2](https://youtu.be/ZeGN6_DChuA)
+# 💻 Projects
+[**Robotic Continuous Grasping System**](https://github.com/CNJianLiu/6D-CLGrasp), [Demo Link1](https://www.bilibili.com/video/BV16M4y1Q7CD) or [Demo Link2](https://youtu.be/ZeGN6_DChuA)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - 
 # 🎖 Honors and Awards
