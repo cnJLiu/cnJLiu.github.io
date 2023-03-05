@@ -21,7 +21,7 @@ My research focuses on 3D computer vision, deep learning, and their applications
 - *2022.06*: &nbsp;🎉🎉 One paper is accepted by IEEE T-CSVT! 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2022</div><img src='images/512x512.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2022</div><img src='images/paper1_512x512.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [HFF6D: Hierarchical Feature Fusion Network for Robust 6D Object Pose Tracking](https://ieeexplore.ieee.org/abstract/document/9792223)\\
 **Jian Liu**, Wei Sun, Chongpei Liu, Xing Zhang, Shimeng Fan, Wei Wu
