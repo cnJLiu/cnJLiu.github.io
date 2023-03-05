@@ -14,7 +14,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am a 1st year Ph.D. student at Hunan University, supervised by [Prof. Wei Sun](http://eeit.hnu.edu.cn/info/1281/4511.htm).
 
-My research focuses on 3D computer vision, deep learning, and their applications for robotic manipulation. Specifically, I have worked on category-level 6D object pose estimation, and instance-level 6D object pose tracking. Subsequent research focuses include: label-efficient learning for generalized 6D object pose estimation /& tracking. I was motivated to conduct this doctoral research due to my passion for realizing intelligent perception and autonomous manipulation of robots in 3D space.
+My research focuses on 3D computer vision, deep learning, and their applications for robotic manipulation. Specifically, I have worked on category-level 6D object pose estimation, and instance-level 6D object pose tracking. Subsequent research focuses include: label-efficient learning for generalized 6D object pose estimation and tracking. I was motivated to conduct this doctoral research due to my passion for realizing intelligent perception and autonomous manipulation of robots in 3D space.
 
 # 🔥 News
 - *2023.02*: &nbsp;🎉🎉 One paper is accepted by IEEE T-II!
@@ -39,7 +39,8 @@ My research focuses on 3D computer vision, deep learning, and their applications
  
 # 💻 Projects
 [**Robotic Continuous Grasping System**](https://github.com/CNJianLiu/6D-CLGrasp) ([Demo Link1](https://www.bilibili.com/video/BV16M4y1Q7CD) or [Demo Link2](https://youtu.be/ZeGN6_DChuA))
-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII 2023</div><img src='images/project1_512x512.png' alt="sym" width="100%"></div></div>
+- <div class='paper-box'><div class='paper-box-image'><img src='images/project1_512x512.png' alt="sym" width="100%"></div></div>
+- <div class='paper-box-text' markdown="1">
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
