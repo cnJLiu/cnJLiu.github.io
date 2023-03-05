@@ -29,7 +29,7 @@ My research focuses on 3D computer vision, deep learning, and their applications
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII 2023</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII 2023</div><img src='images/paper2_512x512.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Robotic Continuous Grasping System by Shape Transformer-Guided Multi-Object Category-Level 6D Pose Estimation](https://ieeexplore.ieee.org/abstract/document/10043016)\\
 **Jian Liu**, Wei Sun, Chongpei Liu, Xing Zhang, Qiang Fu
