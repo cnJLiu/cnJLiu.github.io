@@ -35,7 +35,7 @@ My research focuses on 3D computer vision, deep learning, and their applications
 [Robotic Continuous Grasping System by Shape Transformer-Guided Multi-Object Category-Level 6D Pose Estimation](https://ieeexplore.ieee.org/abstract/document/10043016)\\
 **Jian Liu**, Wei Sun, Chongpei Liu, Xing Zhang, Qiang Fu
 - The GSENet is proposed to identify the global shape of an object category. It can effectively use the global and local features of the intra-class known object’s 3D model by residual connection and max-pooling. The global shape can be used as the prior information of intra-class known object.
-- We propose a transformer-guided shape reconstruction network to reconstruct the NOCS shape of intra-class known object, which can fully use the prior feature, current observation feature, and the feature difference between them by internal self-attention, as well as strengthen their correlation by mutual cross-attention. By doing so, the shape variation can be explicitly highlighted.
+- We propose a transformer-guided shape reconstruction network to reconstruct the NOCS shape of intra-class known object, which can fully use the prior feature, current observation feature, and their feature difference by internal self-attention, as well as strengthen their correlation by mutual cross-attention. By doing so, the shape variation can be explicitly highlighted.
 </div></div>
  
 # 💻 Projects
