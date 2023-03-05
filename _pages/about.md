@@ -39,7 +39,10 @@ My research focuses on 3D computer vision, deep learning, and their applications
  
 # 💻 Projects
 [**Robotic Continuous Grasping System**](https://github.com/CNJianLiu/6D-CLGrasp) ([Demo Link1](https://www.bilibili.com/video/BV16M4y1Q7CD) or [Demo Link2](https://youtu.be/ZeGN6_DChuA))
+- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII 2023</div><img src='images/project1_512x512.png' alt="sym" width="100%"></div></div>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2018.11* The National First Prize in "Higher Education Society Cup" National Undergraduate Mathematical Contest in Modeling (Top 1.5 %).
