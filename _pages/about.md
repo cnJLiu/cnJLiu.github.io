@@ -25,7 +25,7 @@ My research focuses on 3D computer vision, deep learning, and their applications
 <div class='paper-box-text' markdown="1">
 [HFF6D: Hierarchical Feature Fusion Network for Robust 6D Object Pose Tracking](https://ieeexplore.ieee.org/abstract/document/9792223)\\
 **Jian Liu**, Wei Sun, Chongpei Liu, Xing Zhang, Shimeng Fan, Wei Wu
-- We propose a light-weight and robust hierarchical feature fusion-based neural network for 6D object pose tracking. It can establish sufficient spatial-temporal information interaction between adjacent frames, thereby improving the accuracy of relative pose estimation.
+- We propose a light-weight and robust hierarchical feature fusion network for 6D object pose tracking. It can establish sufficient spatial-temporal information interaction between adjacent frames, thereby improving the accuracy of relative pose estimation.
 - We propose a novel subtraction feature fusion module with attention mechanism to leverage feature subtraction during feature fusion. It explicitly highlights the feature differences between adjacent frames, thus improving the robustness of relative pose estimation in challenging scenes.
 </div>
 </div>
