@@ -27,9 +27,7 @@ My research focuses on 3D computer vision, deep learning, and their applications
 **Jian Liu**, Wei Sun, Chongpei Liu, Xing Zhang, Shimeng Fan, Wei Wu
 - We propose a light-weight and robust hierarchical feature fusion network for 6D object pose tracking. It can establish sufficient spatial-temporal information interaction between adjacent frames, thereby improving the accuracy of relative pose estimation.
 - We propose a novel subtraction feature fusion module with attention mechanism to leverage feature subtraction during feature fusion. It explicitly highlights the feature differences between adjacent frames, thus improving the robustness of relative pose estimation in challenging scenes.
-</div>
-</div>
-
+</div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII 2023</div><img src='images/paper2_512x512.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Robotic Continuous Grasping System by Shape Transformer-Guided Multi-Object Category-Level 6D Pose Estimation](https://ieeexplore.ieee.org/abstract/document/10043016)\\
