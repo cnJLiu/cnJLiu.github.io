@@ -12,9 +12,9 @@ redirect_from:
 {% include_relative includes/intro.md %} -->
 
 <span class='anchor' id='about-me'></span>
-I am a 1st year Ph.D. student at the [National Engineering Research Center of Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/) of [Hunan University](https://www.hnu.edu.cn/), supervised by [Prof. Wei Sun](http://eeit.hnu.edu.cn/info/1281/4511.htm).
+I am a 2nd year Ph.D. student at the [National Engineering Research Center of Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/) of [Hunan University](https://www.hnu.edu.cn/), supervised by [Prof. Wei Sun](https://www.hnu.edu.cn/info/1038/7317.htm). I am currently a Visiting Research Student with the University of Western Australia, Perth, WA, Australia, under the supervision of [Prof. Ajmal Mian](https://ajmalsaeed.net/).
 
-My research focuses on 3D computer vision, deep learning, and their applications for robotic manipulation. Specifically, I have worked on category-level 6D object pose estimation, and instance-level 6D object pose tracking. Subsequent research focuses include: label-efficient learning for generalized 6D object pose estimation and tracking. I was motivated to conduct this doctoral research due to my passion for realizing intelligent perception and autonomous manipulation of robots in 3D space.
+My research focuses on 3D computer vision, deep learning, and their applications for robotic manipulation. Specifically, I have worked on category-level 6D object pose estimation and instance-level 6D object pose tracking. Subsequent research focuses include: label-efficient learning for generalized 6D object pose estimation and tracking. I was motivated to conduct this doctoral research due to my passion for realizing intelligent perception and autonomous manipulation of robots in 3D space.
 
 # 🔥 News
 - *2023.02*: &nbsp;🎉🎉 One paper is accepted by IEEE T-II!
@@ -40,7 +40,7 @@ My research focuses on 3D computer vision, deep learning, and their applications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/project1_512x512.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [**Robotic Continuous Grasping System**](https://github.com/CNJianLiu/6D-CLGrasp) (Demo can be seen through [link1](https://www.bilibili.com/video/BV16M4y1Q7CD) or [link2](https://youtu.be/ZeGN6_DChuA))
-- We build an end-to-end robotic continuous grasping system, which achieves high-accuracy 6D pose estimation for multiple intra-class unknown objects and highefficiency robotic grasping in 3D space. For continuous grasping, we propose a low-computation and effective grasping strategy based on the pre-defined vector orientation, and develop a GUI for monitoring and control.
+- We build an end-to-end robotic continuous grasping system, which achieves high-accuracy 6D pose estimation for multiple intra-class unknown objects and high-efficiency robotic grasping in 3D space. For continuous grasping, we propose a low-computation and effective grasping strategy based on the pre-defined vector orientation and develop a GUI for monitoring and control.
 </div></div>
 
 # 🎖 Honors and Awards
