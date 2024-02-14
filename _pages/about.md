@@ -43,6 +43,7 @@ My research focuses on 3D computer vision, deep learning, and their applications
 <div class='paper-box-text' markdown="1">
 [**Robotic Continuous Grasping System**](https://github.com/CNJianLiu/6D-CLGrasp) (Demo can be seen through [link1](https://www.bilibili.com/video/BV16M4y1Q7CD) or [link2](https://youtu.be/ZeGN6_DChuA))
 - We build an end-to-end robotic continuous grasping system, which achieves high-accuracy 6D pose estimation for multiple intra-class unknown objects and high-efficiency robotic grasping in 3D space. For continuous grasping, we propose a low-computation and effective grasping strategy based on the pre-defined vector orientation, and develop a GUI for monitoring and control.
+</div></div>
 
 # 🎖 Honors and Awards
 - *2018.11* The National First Prize in "Higher Education Society Cup" National Undergraduate Mathematical Contest in Modeling (Top 1.5 %).
