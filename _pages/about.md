@@ -23,19 +23,19 @@ My research focuses on 3D computer vision, deep learning, and their applications
 <div class='paper-box-text' markdown="1">
 [MH6D: Multi-Hypothesis Consistency Learning for Category-Level 6-D Object Pose Estimation](https://ieeexplore.ieee.org/document/10433529)\\
 **Jian Liu**, Wei Sun, Chongpei Liu, Hui Yang, Xing Zhang, Ajmal Mian
-We propose a multi-hypothesis consistency learning framework for category-level 6-D object pose estimation, which utilizes a parallel consistency learning structure, alleviating the uncertainty problem of single-shot feature extraction and promoting self-adaptation of domain to reduce the synthetic-to-real domain gap.
+- We propose a multi-hypothesis consistency learning framework for category-level 6-D object pose estimation, which utilizes a parallel consistency learning structure, alleviating the uncertainty problem of single-shot feature extraction and promoting self-adaptation of domain to reduce the synthetic-to-real domain gap.
 </div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII 2023</div><img src='images/paper2_512x512.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Robotic Continuous Grasping System by Shape Transformer-Guided Multi-Object Category-Level 6D Pose Estimation](https://ieeexplore.ieee.org/abstract/document/10043016)\\
 **Jian Liu**, Wei Sun, Chongpei Liu, Xing Zhang, Qiang Fu
-A transformer-guided shape reconstruction network is proposed to reconstruct the NOCS shape of intra-class known objects, which can fully use the prior feature, current observation feature, and their feature difference by internal self-attention, as well as strengthen their correlation by mutual cross-attention. By doing so, the shape variation can be explicitly highlighted.
+- A transformer-guided shape reconstruction network is proposed to reconstruct the NOCS shape of intra-class known objects, which can fully use the prior feature, current observation feature, and their feature difference by internal self-attention, as well as strengthen their correlation by mutual cross-attention. By doing so, the shape variation can be explicitly highlighted.
 </div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2022</div><img src='images/paper1_512x512.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [HFF6D: Hierarchical Feature Fusion Network for Robust 6D Object Pose Tracking](https://ieeexplore.ieee.org/abstract/document/9792223)\\
 **Jian Liu**, Wei Sun, Chongpei Liu, Xing Zhang, Shimeng Fan, Wei Wu
-We propose a lightweight and robust hierarchical feature fusion network for 6D object pose tracking. It establishes sufficient spatial-temporal information interaction between adjacent frames and explicitly highlights the feature differences between adjacent frames, thus improving the robustness of relative pose estimation in challenging scenes.
+- We propose a lightweight and robust hierarchical feature fusion network for 6D object pose tracking. It establishes sufficient spatial-temporal information interaction between adjacent frames and explicitly highlights the feature differences between adjacent frames, thus improving the robustness of relative pose estimation in challenging scenes.
 </div></div>
  
 # 💻 Projects
