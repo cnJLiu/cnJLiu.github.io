@@ -11,18 +11,18 @@ redirect_from:
 <!-- <span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %} -->
 
-<span class='anchor' id='about-me'></span>
+<!-- <span class='anchor' id='about-me'></span>
 I am a 2nd year Ph.D. student at the [National Engineering Research Center of Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/) of [Hunan University](https://www.hnu.edu.cn/), supervised by [Prof. Wei Sun](https://www.hnu.edu.cn/info/1038/7317.htm). I am currently a Visiting Ph.D. Student at the Machine Intelligence Group of the [University of Western Australia](https://www.uwa.edu.au/), supervised by [Prof. Ajmal Mian](https://ajmalsaeed.net/).
 
-My research focuses on 3D computer vision, deep learning, and their applications for robotic manipulation. Specifically, I have worked on category-level 6D object pose estimation and instance-level 6D object pose tracking. Subsequent research focuses include: label-efficient learning for generalized 6D object pose estimation and tracking. I was motivated to conduct this doctoral research due to my passion for realizing intelligent perception and autonomous manipulation of robots in 3D space.
+<!-- My research focuses on 3D computer vision, deep learning, and their applications for robotic manipulation. Specifically, I have worked on category-level 6D object pose estimation and instance-level 6D object pose tracking. Subsequent research focuses include: label-efficient learning for generalized 6D object pose estimation and tracking. I was motivated to conduct this doctoral research due to my passion for realizing intelligent perception and autonomous manipulation of robots in 3D space.
 
-# 🔥 News
+<!-- # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by IEEE TII!
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TNNLS!
 - *2023.02*: &nbsp;🎉🎉 One paper is accepted by IEEE TII!
 - *2022.06*: &nbsp;🎉🎉 One paper is accepted by IEEE TCSVT!
   
-# 📝 Publications 
+<!-- # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII 2023</div><img src='https://github.com/cnJLiu/cnJLiu.github.io/edit/main/images/paper2_512x512.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Robotic Continuous Grasping System by Shape Transformer-Guided Multi-Object Category-Level 6D Pose Estimation](https://ieeexplore.ieee.org/abstract/document/10043016) \\
@@ -39,14 +39,14 @@ My research focuses on 3D computer vision, deep learning, and their applications
 </div></div>
 
  
-# 💻 Projects
+<!-- # 💻 Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='https://github.com/cnJLiu/cnJLiu.github.io/edit/main/images/project1_512x512.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [**Robotic Continuous Grasping System**](https://github.com/CNJianLiu/6D-CLGrasp) (Demo can be seen through [link1](https://www.bilibili.com/video/BV16M4y1Q7CD) or [link2](https://youtu.be/ZeGN6_DChuA))
 - We build an end-to-end robotic continuous grasping system, which achieves high-accuracy 6D pose estimation for multiple intra-class unknown objects and high-efficiency robotic grasping in 3D space. For continuous grasping, we propose a low-computation and effective grasping strategy based on the pre-defined vector orientation, and develop a GUI for monitoring and control.
 </div></div>
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2018.11* The National First Prize in "Higher Education Society Cup" National Undergraduate Mathematical Contest in Modeling (Top 1.5 %).
 - *2019.08* The National Second Prize in "RoboMaster2019" National Undergraduate Robotics Competition (Hosted by DJI-Innovations).
 - *2018.06* Hong Kong "Zhong Huiming" Social Scholarship.
