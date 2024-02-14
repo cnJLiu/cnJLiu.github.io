@@ -18,8 +18,8 @@ My research focuses on 3D computer vision, deep learning, and their applications
 - *2023.02*: &nbsp;🎉🎉 One paper is accepted by IEEE TII!
 - *2022.06*: &nbsp;🎉🎉 One paper is accepted by IEEE TCSVT!
   
-# 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2024</div><img src='images/paper3_512x512.png' alt="sym" width="100%"></div></div>
+# 📝 Some Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2024</div><img src='images/paper3_512x512.png' alt="sym" width="100%">
 <div class='paper-box-text' markdown="1">
 [MH6D: Multi-Hypothesis Consistency Learning for Category-Level 6-D Object Pose Estimation](https://ieeexplore.ieee.org/document/10433529)\\
 **Jian Liu**, Wei Sun, Chongpei Liu, Hui Yang, Xing Zhang, Ajmal Mian
@@ -43,7 +43,6 @@ My research focuses on 3D computer vision, deep learning, and their applications
 <div class='paper-box-text' markdown="1">
 [**Robotic Continuous Grasping System**](https://github.com/CNJianLiu/6D-CLGrasp) (Demo can be seen through [link1](https://www.bilibili.com/video/BV16M4y1Q7CD) or [link2](https://youtu.be/ZeGN6_DChuA))
 - We build an end-to-end robotic continuous grasping system, which achieves high-accuracy 6D pose estimation for multiple intra-class unknown objects and high-efficiency robotic grasping in 3D space. For continuous grasping, we propose a low-computation and effective grasping strategy based on the pre-defined vector orientation, and develop a GUI for monitoring and control.
-</div></div>
 
 # 🎖 Honors and Awards
 - *2018.11* The National First Prize in "Higher Education Society Cup" National Undergraduate Mathematical Contest in Modeling (Top 1.5 %).
