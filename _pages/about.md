@@ -16,7 +16,7 @@ I am a 2nd year Ph.D. student at the [National Engineering Research Center of Ro
 
 My research focuses on 3D computer vision, deep learning, and their applications for robotic manipulation. Specifically, I have worked on category-level 6D object pose estimation and instance-level 6D object pose tracking. Subsequent research focuses include: label-efficient learning for generalized 6D object pose estimation and tracking. I was motivated to conduct this doctoral research due to my passion for realizing intelligent perception and autonomous manipulation of robots in 3D space.
 
-# 🔥 News
+<!-- # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by IEEE TII!
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TNNLS!
 - *2023.02*: &nbsp;🎉🎉 One paper is accepted by IEEE TII!
@@ -39,7 +39,7 @@ My research focuses on 3D computer vision, deep learning, and their applications
 </div></div>
 
  
-# 💻 Projects
+<!-- # 💻 Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='https://github.com/cnJLiu/cnJLiu.github.io/edit/main/images/project1_512x512.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [**Robotic Continuous Grasping System**](https://github.com/CNJianLiu/6D-CLGrasp) (Demo can be seen through [link1](https://www.bilibili.com/video/BV16M4y1Q7CD) or [link2](https://youtu.be/ZeGN6_DChuA))
