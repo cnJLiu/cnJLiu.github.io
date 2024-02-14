@@ -17,10 +17,10 @@ I am a 2nd year Ph.D. student at the [National Engineering Research Center of Ro
 My research focuses on 3D computer vision, deep learning, and their applications for robotic manipulation. Specifically, I have worked on category-level 6D object pose estimation and instance-level 6D object pose tracking. Subsequent research focuses include: label-efficient learning for generalized 6D object pose estimation and tracking. I was motivated to conduct this doctoral research due to my passion for realizing intelligent perception and autonomous manipulation of robots in 3D space.
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 One paper is accepted by IEEE TII
-- *2024.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TNNLS
-- *2023.02*: &nbsp;🎉🎉 One paper is accepted by IEEE TII
-- *2022.06*: &nbsp;🎉🎉 One paper is accepted by IEEE TCSVT
+- *2024.02*: &nbsp;🎉🎉 One paper is accepted by IEEE TII!
+- *2024.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TNNLS!
+- *2023.02*: &nbsp;🎉🎉 One paper is accepted by IEEE TII!
+- *2022.06*: &nbsp;🎉🎉 One paper is accepted by IEEE TCSVT!
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2024</div><img src='images/paper3_512x512.png' alt="sym" width="100%"></div></div>
