@@ -51,7 +51,7 @@ My research focuses on 3D computer vision, deep learning, and their applications
 - *2019.08* The National Second Prize in "RoboMaster2019" National Undergraduate Robotics Competition (Hosted by DJI-Innovations).
 - *2018.06* Hong Kong "Zhong Huiming" Social Scholarship.
 
-# 💬 Review Services
+# 📖 Review Services
  I served as a reviewer for the following journals:
 - IEEE Transactions on Image Processing
 - IEEE Transactions on Neural Networks and Learning Systems
