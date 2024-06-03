@@ -59,7 +59,7 @@ My research focuses on 3D computer vision, deep learning, and their applications
 - *2018.06* Hong Kong "Zhong Huiming" Social Scholarship.
 
 # 📖 Review Services
- I served as a reviewer for the following journals:
+ I serve as a reviewer for the following journals:
 - IEEE Transactions on Image Processing
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Industrial Informatics
