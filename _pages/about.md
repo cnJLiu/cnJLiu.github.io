@@ -10,7 +10,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am a 2nd year Ph.D. student at the [National Engineering Research Center of Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/) of [Hunan University](https://www.hnu.edu.cn/), supervised by [Prof. Wei Sun](https://www.hnu.edu.cn/info/1038/7317.htm). I am currently a Visiting Ph.D. Student at the Machine Intelligence Group of the [University of Western Australia](https://www.uwa.edu.au/), supervised by [Prof. Ajmal Mian](https://ajmalsaeed.net/).
 
-My research focuses on 3D computer vision, deep learning, and their applications for robotic manipulation. Specifically, I have worked on category-level 6D object pose estimation and instance-level 6D object pose tracking. Subsequent research focuses include: label-efficient learning for generalized 6D object pose estimation and tracking. I was motivated to conduct this doctoral research due to my passion for realizing intelligent perception and autonomous manipulation of robots in 3D space.
+My research focuses on 3D computer vision, deep learning, and their applications for robotic manipulation. Specifically, I have worked on category-level object pose estimation and instance-level object pose tracking. Subsequent research focuses include: label-efficient learning for generalized object pose estimation and tracking. I was motivated to conduct this doctoral research due to my passion for realizing intelligent perception and autonomous manipulation of robots in 3D space.
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by IEEE TII!
@@ -19,6 +19,13 @@ My research focuses on 3D computer vision, deep learning, and their applications
 - *2022.06*: &nbsp;🎉🎉 One paper is accepted by IEEE TCSVT!
   
 # 📝 Some Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/paper3_512x512.png' alt="sym" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
+[Deep Learning-Based Object Pose Estimation: A Comprehensive Survey](https://arxiv.org/pdf/2405.07801v3)\\
+**Jian Liu**, Wei Sun, Hui Yang, Zhiwen Zeng, Chongpei Liu, Jin Zheng, Xingyu Liu, Hossein Rahmani, Nicu Sebe, Ajmal Mian
+- We present a comprehensive survey of deep learning-based object pose estimation methods. This survey covers all three problem formulations in the domain, including instance-level, category-level, and unseen object pose estimation. We hope to provide readers with a complete picture of the research progress of deep learning-based object pose estimation.
+</div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2024</div><img src='images/paper3_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
