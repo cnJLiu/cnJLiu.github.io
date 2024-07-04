@@ -65,6 +65,7 @@ My research focuses on 3D computer vision, deep learning, and their applications
 - IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Circuits and Systems for Video Technology
 - IEEE Transactions on Circuits and Systems I: Regular Papers
+- IEEE Transactions on Instrumentation and Measurement
 - Pattern Recognition
 - Neural Networks
 - ACM Transactions on Sensor Networks
