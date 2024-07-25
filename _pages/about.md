@@ -13,7 +13,7 @@ I am a Ph.D. student at the [National Engineering Research Center of Robot Visua
 My research focuses on 3D computer vision, deep learning, and their applications for robotic manipulation. Specifically, I have worked on object pose estimation and tracking. Subsequent research focuses include: label-efficient learning for generalized 3D computer vision. I was motivated to conduct this doctoral research due to my passion for realizing intelligent perception and autonomous manipulation of robots in 3D space.
 
 # 🔥 News
-- *2024.05*: A comprehensive survey of deep learning-based object pose estimation is posted on arXiv. Feel free to contact us if you have any suggestions.
+- *2024.05*: &nbsp;🎉🎉 A comprehensive survey of deep learning-based object pose estimation is posted on arXiv. Feel free to contact us if you have any suggestions.
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by IEEE TII.
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TNNLS.
 - *2023.02*: &nbsp;🎉🎉 One paper is accepted by IEEE TII.
