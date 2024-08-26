@@ -13,11 +13,11 @@ I am a Ph.D. student at the [National Engineering Research Center of Robot Visua
 My research focuses on 3D computer vision, deep learning, and their applications for robotic manipulation. Specifically, I have worked on object pose estimation and tracking. Subsequent research focuses include label-efficient learning for generalized robotic 3D visual perception. I was motivated to conduct this doctoral research due to my passion for realizing intelligent perception and autonomous manipulation of robots in 3D space.
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 A comprehensive survey of deep learning-based object pose estimation is posted on arXiv. Feel free to contact us if you have any suggestions.
-- *2024.02*: &nbsp;🎉🎉 One paper is accepted by IEEE TII.
-- *2024.01*: &nbsp;🎉🎉 One paper is accepted by IEEE TNNLS.
-- *2023.02*: &nbsp;🎉🎉 One paper is accepted by IEEE TII.
-- *2022.06*: &nbsp;🎉🎉 One paper is accepted by IEEE TCSVT.
+- *2024.05*: &nbsp;🎉🎉 A comprehensive survey of deep learning-based object pose estimation was posted on arXiv. Feel free to contact us if you have any suggestions.
+- *2024.02*: &nbsp;🎉🎉 One paper was accepted by IEEE TII.
+- *2024.01*: &nbsp;🎉🎉 One paper was accepted by IEEE TNNLS.
+- *2023.02*: &nbsp;🎉🎉 One paper was accepted by IEEE TII.
+- *2022.06*: &nbsp;🎉🎉 One paper was accepted by IEEE TCSVT.
   
 # 📝 Some Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/paper4_512x512.png' alt="sym" width="100%">
@@ -56,7 +56,7 @@ My research focuses on 3D computer vision, deep learning, and their applications
 
 # 🎖 Honors and Awards
 - *2018.11* The National First Prize in "Higher Education Society Cup" National Undergraduate Mathematical Contest in Modeling (Top 1.5 %).
-- *2019.08* The National Second Prize in "RoboMaster2019" National Undergraduate Robotics Competition (Hosted by DJI-Innovations).
+- *2019.08* The National Second Prize in "RoboMaster2019" National Undergraduate Robotics Competition (Hosted by DJ-Innovations).
 - *2018.06* Hong Kong "Zhong Huiming" Social Scholarship.
 
 # 📖 Review Services
