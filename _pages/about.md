@@ -8,14 +8,16 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I am a Ph.D. student at the [National Engineering Research Center of Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/) of [Hunan University](https://www.hnu.edu.cn/), supervised by [Prof. Wei Sun](https://www.hnu.edu.cn/info/1038/7317.htm). I am currently a Visiting Ph.D. Student at the Machine Intelligence Group of the [University of Western Australia](https://www.uwa.edu.au/), supervised by [Prof. Ajmal Mian](https://ajmalsaeed.net/).
+I am a Ph.D. student at the [National Engineering Research Center of Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/) of [Hunan University](https://www.hnu.edu.cn/), supervised by [Prof. Wei Sun](https://eeit.hnu.edu.cn/info/1281/4511.htm). I am currently a Visiting Ph.D. Student at the Machine Intelligence Group of the [University of Western Australia](https://www.uwa.edu.au/), supervised by [Prof. Ajmal Mian](https://ajmalsaeed.net/).
 
-My research focuses on 3D computer vision, deep learning, and their applications for robotic manipulation. Specifically, I have worked on object pose estimation and tracking. Subsequent research focuses include label-efficient learning for generalized robotic 3D visual perception. I was motivated to conduct this doctoral research due to my passion for realizing intelligent perception and autonomous manipulation of robots in 3D space.
+My research focuses on 3D computer vision, deep learning, and their applications for robotic manipulation. Specifically, I have worked on object pose estimation and tracking. Subsequent research focuses include label-efficient learning for generalized robotic 3D vision perception and manipulation. I was motivated to conduct this doctoral research due to my passion for realizing intelligent perception and autonomous manipulation of robots in 3D space.
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉🎉 A comprehensive survey of deep learning-based object pose estimation was posted on arXiv. Feel free to contact us if you have any suggestions.
 - *2024.02*: &nbsp;🎉🎉 One paper was accepted by IEEE TII.
 - *2024.01*: &nbsp;🎉🎉 One paper was accepted by IEEE TNNLS.
+- *2024.01*: &nbsp;🎉🎉 One paper was accepted by IEEE TMC.
+- *2023.11*: &nbsp;🎉🎉 One paper was accepted by IEEE TIM.
 - *2023.02*: &nbsp;🎉🎉 One paper was accepted by IEEE TII.
 - *2022.06*: &nbsp;🎉🎉 One paper was accepted by IEEE TCSVT.
   
@@ -56,7 +58,7 @@ My research focuses on 3D computer vision, deep learning, and their applications
 
 # 🎖 Honors and Awards
 - *2018.11* The National First Prize in "Higher Education Society Cup" National Undergraduate Mathematical Contest in Modeling (Top 1.5 %).
-- *2019.08* The National Second Prize in "RoboMaster2019" National Undergraduate Robotics Competition (Hosted by DJ-Innovations).
+- *2019.08* The National Second Prize in "RoboMaster2019" National Undergraduate Robotics Competition (Hosted by [DJ-Innovations](https://www.robomaster.com/en-US)).
 - *2018.06* Hong Kong "Zhong Huiming" Social Scholarship.
 
 # 📖 Review Services
