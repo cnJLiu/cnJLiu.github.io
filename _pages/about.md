@@ -14,7 +14,7 @@ My research focuses on 3D machine vision, deep learning, and their applications 
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 One paper was accepted by IEEE IoT-J.
-- *2024.05*: &nbsp;🎉🎉 A comprehensive survey of deep learning-based object pose estimation was posted on arXiv. Feel free to contact us if you have any suggestions.
+- *2024.05*: &nbsp;🎉🎉 A comprehensive survey of deep learning-based object pose estimation was posted on [arXiv](https://arxiv.org/pdf/2405.07801v3). Feel free to contact us if you have any suggestions.
 - *2024.02*: &nbsp;🎉🎉 One paper was accepted by IEEE TII.
 - *2024.01*: &nbsp;🎉🎉 One paper was accepted by IEEE TNNLS.
 - *2024.01*: &nbsp;🎉🎉 One paper was accepted by IEEE TMC.
@@ -58,12 +58,14 @@ My research focuses on 3D machine vision, deep learning, and their applications 
 </div></div>
 
 # 🎖 Honors and Awards
+- *2024.11* Ph.D. National Scholarship
 - *2018.11* The National First Prize in "Higher Education Society Cup" National Undergraduate Mathematical Contest in Modeling (Top 1.5 %).
 - *2019.08* The National Second Prize in "RoboMaster2019" National Undergraduate Robotics Competition (Hosted by [DJI-Innovations](https://www.robomaster.com/en-US)).
 - *2018.06* Hong Kong "Zhong Huiming" Social Scholarship.
 
 # 📖 Review Services
- I serve as a reviewer for the following journals:
+ I serve as a reviewer for more than ten journals/conference, mainly including:
+- IEEE Transactions on Pattern Analysis and Machine Intelligence
 - IEEE Transactions on Image Processing
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Industrial Informatics
@@ -72,7 +74,7 @@ My research focuses on 3D machine vision, deep learning, and their applications 
 - IEEE Transactions on Instrumentation and Measurement
 - Pattern Recognition
 - Neural Networks
-- ACM Transactions on Sensor Networks
+- IEEE ICRA
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
