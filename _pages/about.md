@@ -58,7 +58,7 @@ My research focuses on 3D machine vision, deep learning, and their applications 
 </div></div>
 
 # 🎖 Honors and Awards
-- *2024.11* Ph.D. National Scholarship
+- *2024.11* Ph.D. National Scholarship.
 - *2018.11* The National First Prize in "Higher Education Society Cup" National Undergraduate Mathematical Contest in Modeling (Top 1.5 %).
 - *2019.08* The National Second Prize in "RoboMaster2019" National Undergraduate Robotics Competition (Hosted by [DJI-Innovations](https://www.robomaster.com/en-US)).
 - *2018.06* Hong Kong "Zhong Huiming" Social Scholarship.
