@@ -22,7 +22,7 @@ My research focuses on 3D machine vision, deep learning, and their applications 
 - *2023.02*: &nbsp;🎉🎉 One paper was accepted by IEEE TII.
 - *2022.06*: &nbsp;🎉🎉 One paper was accepted by IEEE TCSVT.
   
-# 📝 Some Publications
+# 📝 Selected Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/paper4_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
