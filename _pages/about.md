@@ -76,8 +76,8 @@ My research focuses on 3D machine vision, deep learning, and their applications 
 - IEEE Transactions on Circuits and Systems I: Regular Papers
 - IEEE Transactions on Instrumentation and Measurement
 - Pattern Recognition
-- Neural Networks
-- IEEE ICRA
+- IEEE/CVF International Conference on Computer Vision (ICCV)
+- IEEE International Conference on Robotics and Automation (ICRA)
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
