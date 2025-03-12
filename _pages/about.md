@@ -26,6 +26,13 @@ My research focuses on 3D machine vision, deep learning, and their applications 
 - *2022.06*: &nbsp;🎉🎉 One paper get accepted by IEEE TCSVT.
   
 # 📝 Selected Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/paper6_512x512.png' alt="sym" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
+[Diff9D: Diffusion-Based Domain-Generalized Category-Level 9DoF Object Pose Estimation](https://arxiv.org/abs/2502.02525)\\
+**Jian Liu**, Wei Sun, Hui Yang, Pengchao Deng, Chongpei Liu, Nicu Sebe, Hossein Rahmani, Ajmal Mian
+- We propose an effective diffusion model to redefine 9DoF object pose estimation from a generative perspective. Diff9D is a simple yet effective prior-free domain-generalized (sim2real) category-level 9DoF object pose generator. By employing the denoising diffusion implicit model, we demonstrate that the reverse diffusion process can be executed in as few as 3 steps, achieving near real-time performance.
+</div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/paper5_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
