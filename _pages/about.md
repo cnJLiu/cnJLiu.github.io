@@ -29,34 +29,35 @@ My research focuses on 3D machine vision and its applications for robotic manipu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/paper6_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
-[Diff9D: Diffusion-Based Domain-Generalized Category-Level 9DoF Object Pose Estimation](https://arxiv.org/abs/2502.02525) [**Code**](https://github.com/CNJianLiu/Diff9D)\\
+[Diff9D: Diffusion-Based Domain-Generalized Category-Level 9DoF Object Pose Estimation](https://arxiv.org/abs/2502.02525) ([**Code**](https://github.com/CNJianLiu/Diff9D))\\
 **Jian Liu**, Wei Sun, Hui Yang, Pengchao Deng, Chongpei Liu, Nicu Sebe, Hossein Rahmani, Ajmal Mian
 - We propose an effective diffusion model to redefine 9DoF object pose estimation from a generative perspective. Diff9D is a simple yet effective prior-free domain-generalized (sim2real) category-level 9DoF object pose generator. By employing the denoising diffusion implicit model, we demonstrate that the reverse diffusion process can be executed in as few as 3 steps, achieving near real-time performance.
 </div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/paper5_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
-[Novel Object 6D Pose Estimation with a Single Reference View](https://arxiv.org/abs/2503.05578) [**Code**](https://github.com/CNJianLiu/SinRef-6D)\\
+[Novel Object 6D Pose Estimation with a Single Reference View](https://arxiv.org/abs/2503.05578) ([**Code**](https://github.com/CNJianLiu/SinRef-6D))\\
 **Jian Liu**, Wei Sun, Kai Zeng, Jin Zheng, Hui Yang, Lin Wang, Hossein Rahmani, Ajmal Mian
 - We propose a single reference view-based CAD model-free novel object 6D pose estimation method. SinRef-6D is simple yet effective and can simultaneously eliminate the need for object CAD models, dense reference views, and model retraining, offering enhanced efficiency and scalability while demonstrating strong generalization to potential real-world robotic applications.
 </div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/paper4_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
-[Deep Learning-Based Object Pose Estimation: A Comprehensive Survey](https://arxiv.org/pdf/2405.07801v3) [**Project Page**](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation)\\
+[Deep Learning-Based Object Pose Estimation: A Comprehensive Survey](https://arxiv.org/pdf/2405.07801v3)\\
+[**Project Page**](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation)\\
 **Jian Liu**, Wei Sun, Hui Yang, Zhiwen Zeng, Chongpei Liu, Jin Zheng, Xingyu Liu, Hossein Rahmani, Nicu Sebe, Ajmal Mian
 - We present a comprehensive survey of deep learning-based object pose estimation methods. This survey covers all three problem formulations in the domain, including instance-level, category-level, and unseen object pose estimation. We hope to provide readers with a complete picture of the research progress of deep learning-based object pose estimation.
 </div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2024</div><img src='images/paper3_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
-[MH6D: Multi-Hypothesis Consistency Learning for Category-Level 6D Object Pose Estimation](https://ieeexplore.ieee.org/document/10433529) [**Code**](https://github.com/CNJianLiu/MH6D)\\
+[MH6D: Multi-Hypothesis Consistency Learning for Category-Level 6D Object Pose Estimation](https://ieeexplore.ieee.org/document/10433529) ([**Code**](https://github.com/CNJianLiu/MH6D))\\
 **Jian Liu**, Wei Sun, Chongpei Liu, Hui Yang, Xing Zhang, Ajmal Mian
 - We propose a multi-hypothesis consistency learning framework for category-level 6D object pose estimation, which utilizes a parallel consistency learning structure, alleviating the uncertainty problem of single-shot feature extraction and promoting self-adaptation of domain to reduce the synthetic-to-real domain gap.
 </div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII 2023</div><img src='images/paper2_512x512.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Robotic Continuous Grasping System by Shape Transformer-Guided Multi-Object Category-Level 6D Pose Estimation](https://ieeexplore.ieee.org/abstract/document/10043016) [**Code**](https://github.com/CNJianLiu/6D-CLGrasp)\\
+[Robotic Continuous Grasping System by Shape Transformer-Guided Multi-Object Category-Level 6D Pose Estimation](https://ieeexplore.ieee.org/abstract/document/10043016) ([**Code**](https://github.com/CNJianLiu/6D-CLGrasp))\\
 **Jian Liu**, Wei Sun, Chongpei Liu, Xing Zhang, Qiang Fu
 - A transformer-guided shape reconstruction network is proposed to reconstruct the NOCS shape of intra-class known objects, which can fully use the prior feature, current observation feature, and their feature difference by internal self-attention, as well as strengthen their correlation by mutual cross-attention. By doing so, the shape variation can be explicitly highlighted.
 </div></div>
