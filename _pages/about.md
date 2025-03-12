@@ -10,7 +10,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am joining [Nanyang Technological University](https://www.ntu.edu.sg/) as a Research Fellow. I completed my PhD at the [National Engineering Research Center of Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/) of [Hunan University](https://www.hnu.edu.cn/), supervised by [Prof. Wei Sun](https://eeit.hnu.edu.cn/info/1281/4511.htm). From Aug. 2023 to Sep. 2024, I was a Visiting PhD Student at the Machine Intelligence Group of the [University of Western Australia](https://www.uwa.edu.au/), supervised by [Prof. Ajmal Mian](https://ajmalsaeed.net/). I also work closely with [Prof. Nicu Sebe](http://disi.unitn.it/~sebe/) and [Prof. Hossein Rahmani](https://sites.google.com/view/rahmaniatlu/).
 
-My research focuses on 3D machine vision, deep learning, and their applications for robotic manipulation. Specifically, I have worked on object pose estimation and tracking. Subsequent research focuses include label-efficient learning for generalized robotic multimodal perception and manipulation. I was motivated to conduct this doctoral research due to my passion for realizing intelligent perception and autonomous manipulation of robots in 3D space.
+My research focuses on 3D machine vision and its applications for robotic manipulation. Specifically, I have worked on object pose estimation and tracking. Subsequent research focuses include label-efficient learning for generalized robotic multimodal perception, manipulation, and embodied AI. I was motivated to conduct this research due to my passion for realizing generalizable perception and manipulation of robots in 3D physical space.
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 One paper get accepted by IEEE TCyber.
