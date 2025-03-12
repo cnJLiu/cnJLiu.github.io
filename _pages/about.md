@@ -67,11 +67,16 @@ My research focuses on 3D machine vision, deep learning, and their applications 
 - We propose a lightweight and robust hierarchical feature fusion network for 6D object pose tracking. It establishes sufficient spatial-temporal information interaction between adjacent frames and explicitly highlights the feature differences between adjacent frames, thus improving the robustness of relative pose estimation in challenging scenes.
 </div></div>
  
-# 💻 Projects
+# 💻 Pose-Based Real-World Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/project1_512x512.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [**Robotic Continuous Grasping System**](https://github.com/CNJianLiu/6D-CLGrasp) (Demo can be seen through [link1](https://www.bilibili.com/video/BV16M4y1Q7CD) or [link2](https://youtu.be/ZeGN6_DChuA))
 - We build an end-to-end robotic continuous grasping system, which achieves high-accuracy 6D pose estimation for multiple intra-class unknown objects and high-efficiency robotic grasping in 3D space. For continuous grasping, we propose a low-computation and effective grasping strategy based on the pre-defined vector orientation, and develop a GUI for monitoring and control.
+</div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/project2_512x512.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[**Robotic Continuous Picking System**](https://github.com/CNJianLiu/Diff9D) (Demo can be seen through [link](https://youtu.be/D4bV8eIUvWk))
+- We develop a robotic picking system comprising both hardware and software components. The hardware for the robotic grasping system is composed of an Intel RealSense L515 RGB-D camera, a Yaskawa robot MOTOMAN-MH12, an electric parallel gripper DH-PGI140-80, and a host computer. For software, we develop a GUI comprising three parts: calibration module, server-client TCP communication module, and robotic grasping module.
 </div></div>
 
 # 🎖 Honors and Awards
