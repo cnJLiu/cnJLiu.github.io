@@ -26,6 +26,13 @@ My research focuses on 3D machine vision, deep learning, and their applications 
 - *2022.06*: &nbsp;🎉🎉 One paper get accepted by IEEE TCSVT.
   
 # 📝 Selected Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/paper5_512x512.png' alt="sym" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
+[Novel Object 6D Pose Estimation with a Single Reference View](https://arxiv.org/abs/2503.05578)\\
+**Jian Liu**, Wei Sun, Kai Zeng, Jin Zheng, Hui Yang, Lin Wang, Hossein Rahmani, Ajmal Mian
+- We propose a single reference view-based CAD model-free novel object 6D pose estimation method. SinRef-6D is simple yet effective and can simultaneously eliminate the need for object CAD models, dense reference views, and model retraining, offering enhanced efficiency and scalability while demonstrating strong generalization to potential real-world robotic applications.
+</div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/paper4_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
