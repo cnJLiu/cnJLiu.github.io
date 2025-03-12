@@ -76,7 +76,7 @@ My research focuses on 3D machine vision, deep learning, and their applications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/project2_512x512.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [**Robotic Continuous Picking System**](https://github.com/CNJianLiu/Diff9D) (Demo can be seen through [link](https://youtu.be/D4bV8eIUvWk))
-- We develop a robotic picking system comprising both hardware and software components. The hardware for the robotic grasping system is composed of an Intel RealSense L515 RGB-D camera, a Yaskawa robot MOTOMAN-MH12, an electric parallel gripper DH-PGI140-80, and a host computer. For software, we develop a GUI comprising three parts: calibration module, server-client TCP communication module, and robotic grasping module.
+- We develop a robotic picking system comprising both hardware and software components. The hardware for the robotic picking system is composed of an Intel RealSense L515 RGB-D camera, a Yaskawa robot MOTOMAN-MH12, an electric parallel gripper DH-PGI140-80, and a host computer. For software, we develop a GUI comprising three parts: calibration module, server-client TCP communication module, and robotic grasping module.
 </div></div>
 
 # 🎖 Honors and Awards
