@@ -13,6 +13,7 @@ I am joining [Nanyang Technological University](https://www.ntu.edu.sg/) as a Re
 My research focuses on 3D machine vision and its applications for robotic manipulation. Specifically, I have worked on object pose estimation and tracking. Subsequent research focuses include label-efficient learning for generalized robotic multimodal perception, manipulation, and embodied AI. I was motivated to conduct this research due to my passion for realizing generalizable perception and manipulation of robots in 3D physical space.
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 One paper get accepted by IEEE TPAMI!
 - *2025.03*: &nbsp;🎉🎉 One paper get accepted by IEEE TCyber.
 - *2025.02*: &nbsp;🎉🎉 One paper get accepted by IEEE ICRA'25.
 - *2024.12*: &nbsp;🎉🎉 PhD defended.
@@ -26,7 +27,7 @@ My research focuses on 3D machine vision and its applications for robotic manipu
 - *2022.06*: &nbsp;🎉🎉 One paper get accepted by IEEE TCSVT.
   
 # 📝 Selected Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/paper6_512x512.png' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/paper6_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
 [Diff9D: Diffusion-Based Domain-Generalized Category-Level 9DoF Object Pose Estimation](https://arxiv.org/abs/2502.02525) ([**Code**](https://github.com/CNJianLiu/Diff9D))\\
