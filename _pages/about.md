@@ -27,7 +27,7 @@ My research focuses on 3D machine vision and its applications for robotic manipu
 - *2022.06*: &nbsp;🎉🎉 One paper get accepted by IEEE TCSVT.
   
 # 📝 Selected Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/paper6_512x512.png' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2025</div><img src='images/paper6_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
 [Diff9D: Diffusion-Based Domain-Generalized Category-Level 9DoF Object Pose Estimation](https://arxiv.org/abs/2502.02525) ([**Code**](https://github.com/CNJianLiu/Diff9D))\\
