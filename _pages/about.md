@@ -88,17 +88,21 @@ My research focuses on 3D machine vision and its applications for robotic manipu
 - *2018.06* Hong Kong "Zhong Huiming" Social Scholarship.
 
 # 📖 Review Services
- I serve as a reviewer for more than ten journals/conferences, mainly including:
+ I serve as a reviewer for more than 20 journals/conferences, mainly including:
 - IEEE Transactions on Pattern Analysis and Machine Intelligence
 - IEEE Transactions on Image Processing
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Circuits and Systems for Video Technology
+- IEEE/ASME Transactions on Mechatronics
 - IEEE Transactions on Circuits and Systems I: Regular Papers
 - IEEE Transactions on Instrumentation and Measurement
+- IEEE Robotics and Automation Letters
 - Pattern Recognition
+- Neural Networks
 - IEEE/CVF International Conference on Computer Vision (ICCV)
 - IEEE International Conference on Robotics and Automation (ICRA)
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
