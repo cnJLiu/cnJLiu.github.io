@@ -13,6 +13,7 @@ I am joining [Nanyang Technological University](https://www.ntu.edu.sg/) as a Re
 My research focuses on 3D machine vision and its applications for robotic manipulation. Specifically, I have worked on object pose estimation and tracking. Subsequent research focuses include label-efficient learning for generalized robotic multimodal perception, manipulation, and embodied AI. I was motivated to conduct this research due to my passion for realizing generalizable perception and manipulation of robots in 3D physical space.
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 One paper get accepted by IEEE RAL.
 - *2025.03*: &nbsp;🎉🎉 One paper get accepted by IEEE TPAMI!
 - *2025.03*: &nbsp;🎉🎉 One paper get accepted by IEEE TCyber.
 - *2025.02*: &nbsp;🎉🎉 One paper get accepted by IEEE ICRA'25.
