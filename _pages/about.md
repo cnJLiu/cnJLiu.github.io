@@ -45,7 +45,7 @@ My research focuses on 3D machine vision and its applications for robotic manipu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICRA'25</div><img src='images/paper7_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
-[MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model](https://ieeexplore.ieee.org/document/10930708) ([**Code**](https://github.com/CNJianLiu/MonoDiff9D))\\
+[MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model](https://arxiv.org/abs/2504.10433) ([**Code**](https://github.com/CNJianLiu/MonoDiff9D))\\
 **Jian Liu**, Wei Sun, Hui Yang, Jin Zheng, Zichen Geng, Hossein Rahmani, Ajmal Mian
 - MonoDiff9D is an extension of [Diff9D](https://ieeexplore.ieee.org/document/10930708), aiming to achieve monocular category-level 9D object pose estimation via diffusion model conditioning on large vision model-based zero-shot depth recovery, without the need for shape priors or CAD models at any stage.
 </div></div>
