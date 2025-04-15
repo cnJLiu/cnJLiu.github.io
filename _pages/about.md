@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I am joining [Nanyang Technological University](https://www.ntu.edu.sg/) as a Research Fellow. I completed my PhD at the [National Engineering Research Center of Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/) of [Hunan University](https://www.hnu.edu.cn/), supervised by [Prof. Wei Sun](https://eeit.hnu.edu.cn/info/1281/4511.htm). From Aug. 2023 to Sep. 2024, I was a Visiting PhD Student at the Machine Intelligence Group of the [University of Western Australia](https://www.uwa.edu.au/), supervised by [Prof. Ajmal Mian](https://ajmalsaeed.net/). I also work closely with [Prof. Nicu Sebe](http://disi.unitn.it/~sebe/) and [Prof. Hossein Rahmani](https://sites.google.com/view/rahmaniatlu/).
+I am an incoming Research Fellow at [Nanyang Technological University](https://www.ntu.edu.sg/). I completed my PhD at the [National Engineering Research Center of Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/) of [Hunan University](https://www.hnu.edu.cn/), supervised by [Prof. Wei Sun](https://eeit.hnu.edu.cn/info/1281/4511.htm). From Aug. 2023 to Sep. 2024, I was a Visiting PhD Student at the Machine Intelligence Group of the [University of Western Australia](https://www.uwa.edu.au/), supervised by [Prof. Ajmal Mian](https://ajmalsaeed.net/). I also work closely with [Prof. Nicu Sebe](http://disi.unitn.it/~sebe/) and [Prof. Hossein Rahmani](https://sites.google.com/view/rahmaniatlu/).
 
 My research focuses on 3D machine vision and its applications for robotic manipulation. Specifically, I have worked on object pose estimation and tracking. Subsequent research focuses include label-efficient learning for generalized robotic multimodal perception, manipulation, and embodied AI. I was motivated to conduct this research due to my passion for realizing generalizable perception and manipulation of robots in 3D physical space.
 
@@ -41,6 +41,13 @@ My research focuses on 3D machine vision and its applications for robotic manipu
 [Novel Object 6D Pose Estimation with a Single Reference View](https://arxiv.org/abs/2503.05578) ([**Code**](https://github.com/CNJianLiu/SinRef-6D))\\
 **Jian Liu**, Wei Sun, Kai Zeng, Jin Zheng, Hui Yang, Lin Wang, Hossein Rahmani, Ajmal Mian
 - We propose a single reference view-based CAD model-free novel object 6D pose estimation method. SinRef-6D is simple yet effective and can simultaneously eliminate the need for object CAD models, dense reference views, and model retraining, offering enhanced efficiency and scalability while demonstrating strong generalization to potential real-world robotic applications.
+</div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICRA'25</div><img src='images/paper7_512x512.png' alt="sym" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
+[MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model](https://ieeexplore.ieee.org/document/10930708) ([**Code**](https://github.com/CNJianLiu/MonoDiff9D))\\
+**Jian Liu**, Wei Sun, Hui Yang, Jin Zheng, Zichen Geng, Hossein Rahmani, Ajmal Mian
+- MonoDiff9D is an extension of [Diff9D](https://ieeexplore.ieee.org/document/10930708), aiming to achieve monocular category-level 9D object pose estimation via diffusion model conditioning on large vision model-based zero-shot depth recovery, without the need for shape priors or CAD models at any stage.
 </div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/paper4_512x512.png' alt="sym" width="100%">
 </div></div>
