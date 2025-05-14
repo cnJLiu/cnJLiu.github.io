@@ -13,6 +13,7 @@ I am an incoming Research Fellow at [Nanyang Technological University](https://w
 My research focuses on 3D machine vision and its applications for robotic manipulation. Specifically, I have worked on object pose estimation and tracking. Subsequent research focuses include label-efficient learning for generalized robotic multimodal perception, manipulation, and embodied AI. I was motivated to conduct this research due to my passion for realizing generalizable perception and manipulation of robots in 3D physical space.
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 We introduced an innovative research perspective for embodied agents by defining [Neural Brain](https://arxiv.org/abs/2505.07634) through the lens of neuroscience. Feel free to get in touch if you have any ideas.
 - *2025.04*: &nbsp;🎉🎉 One paper get accepted by IEEE RAL.
 - *2025.03*: &nbsp;🎉🎉 One paper get accepted by IEEE TPAMI!
 - *2025.03*: &nbsp;🎉🎉 One paper get accepted by IEEE TCyber.
