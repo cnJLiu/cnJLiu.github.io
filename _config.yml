@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jian Liu (刘剑)"
-description              : "Research Fellow at NTU"
+description              : #"Research Fellow at NTU"
 repository               : "cnJLiu/cnJLiu.github.io"
 google_scholar_stats_use_cdn : # true
 
@@ -24,7 +24,7 @@ author:
   name             : "Jian Liu (刘剑)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "PhD at HNU and UWA"
-  location         : "Singapore"
+  location         : #"Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=IM-ScJoAAAAJ"
