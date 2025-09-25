@@ -18,7 +18,6 @@ My research focuses on 3D machine vision and its applications for robotic manipu
 - *2025.03*: &nbsp;🎉🎉 One paper get accepted by IEEE TPAMI!
 - *2025.03*: &nbsp;🎉🎉 One paper get accepted by IEEE TCyber.
 - *2025.02*: &nbsp;🎉🎉 One paper get accepted by IEEE ICRA'25.
-- *2024.12*: &nbsp;🎉🎉 PhD defended.
 - *2024.09*: &nbsp;🎉🎉 One paper get accepted by IEEE IoT-J.
 - *2024.05*: &nbsp;🎉🎉 A comprehensive survey of deep learning-based object pose estimation was posted on [arXiv](https://arxiv.org/pdf/2405.07801v3). Feel free to contact us if you have any suggestions.
 - *2024.02*: &nbsp;🎉🎉 One paper get accepted by IEEE TII.
