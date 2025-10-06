@@ -54,7 +54,7 @@ My research focuses on 3D machine vision and its applications for robotic manipu
 </div></div>
 <div class='paper-box-text' markdown="1">
 [Deep Learning-Based Object Pose Estimation: A Comprehensive Survey](https://arxiv.org/pdf/2405.07801v3)\\
-[**Project Page**](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation)\\
+([**Project Page**](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation))\\
 **Jian Liu**, Wei Sun, Hui Yang, Zhiwen Zeng, Chongpei Liu, Jin Zheng, Xingyu Liu, Hossein Rahmani, Nicu Sebe, Ajmal Mian
 - We present a comprehensive survey of deep learning-based object pose estimation methods. This survey covers all three problem formulations in the domain, including instance-level, category-level, and unseen object pose estimation. We hope to provide readers with a complete picture of the research progress of deep learning-based object pose estimation.
 </div></div>
