@@ -14,6 +14,7 @@ My research focuses on 3D machine vision and its applications for robotic manipu
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 One paper get accepted by IEEE RAL.
+- *2025.05*: &nbsp;🎉🎉 We proposed a computation framework called [Neural Brain](https://arxiv.org/abs/2505.07634) for embodied agents through the lens of neuroscience, providing an innovative research perspective for embodied AI. Feel free to get in touch if you have any ideas.
 - *2025.04*: &nbsp;🎉🎉 One paper get accepted by IEEE RAL.
 - *2025.03*: &nbsp;🎉🎉 One paper get accepted by IEEE TPAMI!
 - *2025.03*: &nbsp;🎉🎉 One paper get accepted by IEEE TCyber.
@@ -110,6 +111,7 @@ I serve as a reviewer for more than 20 journals/conferences, mainly including:
 - IEEE Transactions on Circuits and Systems I: Regular Papers
 - IEEE Transactions on Instrumentation and Measurement
 - IEEE Robotics and Automation Letters
+- ACM Computing Surveys
 - Pattern Recognition
 - Neural Networks
 - IEEE/CVF International Conference on Computer Vision (ICCV)
