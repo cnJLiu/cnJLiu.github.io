@@ -12,7 +12,7 @@ I recently completed my PhD at the [National Engineering Research Center of Robo
 
 My PhD research focuses on 3D machine vision and its applications for robotic manipulation. Subsequent research focuses include label-efficient learning for generalized robotic multimodal perception, manipulation, and embodied AI. I was motivated to conduct this research due to my passion for realizing generalizable perception and manipulation of robots in 3D physical space.
 
-[If you have excellent research for collaboration, feel free to get in touch!](mailto:jianliu666.cn@gmail.com)
+[*If you have excellent research for collaboration, feel free to get in touch!*](mailto:jianliu666.cn@gmail.com)
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 One paper get accepted by IEEE RAL.
