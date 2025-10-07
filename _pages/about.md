@@ -39,8 +39,8 @@ My research focuses on 3D machine vision and its applications for robotic manipu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/paper5_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
-[Novel Object 6D Pose Estimation with a Single Reference View](https://arxiv.org/abs/2503.05578) ([**Code**](https://github.com/CNJianLiu/SinRef-6D))\\
-**Jian Liu**, Wei Sun, Kai Zeng, Jin Zheng, Hui Yang, Lin Wang, Hossein Rahmani, Ajmal Mian
+[Novel Object 6D Pose Estimation with a Single Reference View](https://arxiv.org/abs/2503.05578v3) ([**Code**](https://github.com/CNJianLiu/SinRef-6D))\\
+**Jian Liu**, Wei Sun, Kai Zeng, Jin Zheng, Hui Yang, Hossein Rahmani, Ajmal Mian, Lin Wang
 - We propose a single reference view-based CAD model-free novel object 6D pose estimation method. SinRef-6D is simple yet effective and can simultaneously eliminate the need for object CAD models, dense reference views, and model retraining, offering enhanced efficiency and scalability while demonstrating strong generalization to potential real-world robotic applications.
 </div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICRA'25</div><img src='images/paper7_512x512.png' alt="sym" width="100%">
