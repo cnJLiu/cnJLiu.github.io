@@ -15,6 +15,7 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 [*If you have excellent research for collaboration, feel free to get in touch!*](mailto:jianliu666.cn@gmail.com)
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 One paper get accepted by IJCV!
 - *2025.06*: &nbsp;🎉🎉 One paper get accepted by IEEE RAL.
 - *2025.05*: &nbsp;🎉🎉 We proposed a computation framework called [Neural Brain](https://arxiv.org/abs/2505.07634) for embodied agents through the lens of neuroscience, providing an innovative research perspective for embodied AI. Feel free to get in touch if you have any ideas.
 - *2025.04*: &nbsp;🎉🎉 One paper get accepted by IEEE RAL.
@@ -38,6 +39,14 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 **Jian Liu**, Wei Sun, Hui Yang, Pengchao Deng, Chongpei Liu, Nicu Sebe, Hossein Rahmani, Ajmal Mian
 - We propose an effective diffusion model to redefine 9DoF object pose estimation from a generative perspective. Diff9D is a simple yet effective prior-free domain-generalized (sim2real) category-level 9DoF object pose generator. By employing the denoising diffusion implicit model, we demonstrate that the reverse diffusion process can be executed in as few as 3 steps, achieving near real-time performance.
 </div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/paper4_512x512.png' alt="sym" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
+[Deep Learning-Based Object Pose Estimation: A Comprehensive Survey](https://arxiv.org/pdf/2405.07801v3)\\
+([**Project Page**](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation))\\
+**Jian Liu**, Wei Sun, Hui Yang, Zhiwen Zeng, Chongpei Liu, Jin Zheng, Xingyu Liu, Hossein Rahmani, Nicu Sebe, Ajmal Mian
+- We present a comprehensive survey of deep learning-based object pose estimation methods. This survey covers all three problem formulations in the domain, including instance-level, category-level, and unseen object pose estimation. We hope to provide readers with a complete picture of the research progress of deep learning-based object pose estimation.
+</div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/paper5_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
@@ -51,14 +60,6 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 [MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model](https://arxiv.org/abs/2504.10433) ([**Code**](https://github.com/CNJianLiu/MonoDiff9D))\\
 **Jian Liu**, Wei Sun, Hui Yang, Jin Zheng, Zichen Geng, Hossein Rahmani, Ajmal Mian
 - MonoDiff9D is an extension of [Diff9D](https://ieeexplore.ieee.org/document/10930708), aiming to achieve monocular category-level 9D object pose estimation via diffusion model conditioning on large vision model-based zero-shot depth recovery, without the need for shape priors or CAD models at any stage.
-</div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/paper4_512x512.png' alt="sym" width="100%">
-</div></div>
-<div class='paper-box-text' markdown="1">
-[Deep Learning-Based Object Pose Estimation: A Comprehensive Survey](https://arxiv.org/pdf/2405.07801v3)\\
-([**Project Page**](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation))\\
-**Jian Liu**, Wei Sun, Hui Yang, Zhiwen Zeng, Chongpei Liu, Jin Zheng, Xingyu Liu, Hossein Rahmani, Nicu Sebe, Ajmal Mian
-- We present a comprehensive survey of deep learning-based object pose estimation methods. This survey covers all three problem formulations in the domain, including instance-level, category-level, and unseen object pose estimation. We hope to provide readers with a complete picture of the research progress of deep learning-based object pose estimation.
 </div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2024</div><img src='images/paper3_512x512.png' alt="sym" width="100%">
 </div></div>
