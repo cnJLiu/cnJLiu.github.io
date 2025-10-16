@@ -99,7 +99,7 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 - *2019.08* The National Second Prize in "RoboMaster2019" National Undergraduate Robotics Competition (Hosted by [DJI-Innovations](https://www.robomaster.com/en-US)).
 - *2018.06* Hong Kong "Zhong Huiming" Social Scholarship.
 
-# 📖 Editorial and Review Services
+# 📚 Editorial and Review Services
 Leading Guest Editor: [Electronics](https://www.mdpi.com/journal/electronics), Special Issue on "[Recent Advances in Robot Manipulation](https://www.mdpi.com/journal/electronics/special_issues/NAU56Y505W)"
 
 I serve as a reviewer for more than 20 journals/conferences, mainly including:
