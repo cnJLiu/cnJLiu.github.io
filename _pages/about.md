@@ -8,16 +8,16 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I recently completed my PhD at the [National Engineering Research Center of Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/) of [Hunan University](https://www.hnu.edu.cn/), supervised by [Prof. Wei Sun](http://robotics.hnu.edu.cn/info/1176/2972.htm) and [Prof. Yaonan Wang](https://robotics.hnu.edu.cn/info/1176/3098.htm). From Aug. 2023 to Sep. 2024, I was a Visiting PhD Student at the Machine Intelligence Group of the [University of Western Australia](https://www.uwa.edu.au/), supervised by [Prof. Ajmal Mian](https://ajmalsaeed.net/). I also work closely with [Prof. Nicu Sebe](http://disi.unitn.it/~sebe/) and [Prof. Hossein Rahmani](https://sites.google.com/view/rahmaniatlu/).
+I completed my PhD in 2025 at the [National Engineering Research Center of Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/) of [Hunan University](https://www.hnu.edu.cn/), supervised by [Prof. Wei Sun](http://robotics.hnu.edu.cn/info/1176/2972.htm) and [Prof. Yaonan Wang](https://robotics.hnu.edu.cn/info/1176/3098.htm). From Aug. 2023 to Sep. 2024, I was a Visiting PhD Student at the Machine Intelligence Group of the [University of Western Australia](https://www.uwa.edu.au/), supervised by [Prof. Ajmal Mian](https://ajmalsaeed.net/). I also work closely with [Prof. Nicu Sebe](http://disi.unitn.it/~sebe/) and [Prof. Hossein Rahmani](https://sites.google.com/view/rahmaniatlu/).
 
-My PhD research focuses on 3D machine vision and its applications for robotic manipulation. Subsequent research focuses include label-efficient learning for generalized robotic multimodal perception and embodied AI. I was motivated to conduct this research due to my passion for realizing generalizable perception, navigation, and manipulation of robots in 3D physical space.
+My PhD research focuses on 3D machine vision and its applications for robotic manipulation. Subsequent research focuses include label-efficient learning for generalized robotic multimodal perception and embodied AI. I was motivated to conduct this research due to my passion for realizing generalizable perception, navigation, and manipulation of robots in physical space.
 
 [*If you have excellent research for collaboration, feel free to get in touch!*](mailto:jianliu666.cn@gmail.com)
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 One paper get accepted by IJCV!
 - *2025.06*: &nbsp;🎉🎉 One paper get accepted by IEEE RAL.
-- *2025.05*: &nbsp;🎉🎉 We proposed a computation framework called Neural Brain for embodied agents through the lens of neuroscience, providing an innovative research perspective for embodied AI. Feel free to get in touch if you have any ideas.
+- *2025.05*: &nbsp;🎉🎉 We proposed a computation framework called [Neural Brain](https://arxiv.org/abs/2505.07634) for embodied agents through the lens of neuroscience, providing an innovative research perspective for embodied AI. Feel free to get in touch if you have any ideas.
 - *2025.04*: &nbsp;🎉🎉 One paper get accepted by IEEE RAL.
 - *2025.03*: &nbsp;🎉🎉 One paper get accepted by IEEE TPAMI!
 - *2025.03*: &nbsp;🎉🎉 One paper get accepted by IEEE TCyber.
@@ -94,10 +94,14 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 </div></div>
 
 # 🎖 Honors and Awards
-- *2024.11* Ph.D. National Scholarship.
+<!-- - *2024.11* Ph.D. National Scholarship.
 - *2018.11* The National First Prize in "Higher Education Society Cup" National Undergraduate Mathematical Contest in Modeling (Top 1.5 %).
 - *2019.08* The National Second Prize in "RoboMaster2019" National Undergraduate Robotics Competition (Hosted by [DJI-Innovations](https://www.robomaster.com/en-US)).
-- *2018.06* Hong Kong "Zhong Huiming" Social Scholarship.
+- *2018.06* Hong Kong "Zhong Huiming" Social Scholarship. -->
+- Ph.D. National Scholarship.
+- The National First Prize in "Higher Education Society Cup" National Undergraduate Mathematical Contest in Modeling (Top 1.5 %).
+- The National Second Prize in "RoboMaster" National Undergraduate Robotics Competition (Hosted by [DJI-Innovations](https://www.robomaster.com/en-US)).
+- Hong Kong "Zhong Huiming" Social Scholarship.
 
 # 📚 Editorial and Review Services
 Leading Guest Editor: [Electronics](https://www.mdpi.com/journal/electronics), Special Issue on "[Recent Advances in Robot Manipulation](https://www.mdpi.com/journal/electronics/special_issues/NAU56Y505W)"
