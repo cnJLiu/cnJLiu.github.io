@@ -15,6 +15,7 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 [*If you have excellent research for collaboration, feel free to get in touch!*](mailto:jianliu666.cn@gmail.com)
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper get accepted by IEEE ICLR'26.
 - *2025.10*: &nbsp;🎉🎉 One paper get accepted by IJCV!
 - *2025.06*: &nbsp;🎉🎉 One paper get accepted by IEEE RAL.
 - *2025.05*: &nbsp;🎉🎉 We proposed a computation framework called [Neural Brain](https://arxiv.org/abs/2505.07634) for embodied agents through the lens of neuroscience, providing an innovative research perspective for embodied AI. Feel free to get in touch if you have any ideas.
@@ -42,7 +43,7 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/paper4_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
-[Deep Learning-Based Object Pose Estimation: A Comprehensive Survey](https://arxiv.org/pdf/2405.07801v3)\\
+[Deep Learning-Based Object Pose Estimation: A Comprehensive Survey](https://link.springer.com/article/10.1007/s11263-025-02646-6)\\
 ([**Project Page**](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation))\\
 **Jian Liu**, Wei Sun, Hui Yang, Zhiwen Zeng, Chongpei Liu, Jin Zheng, Xingyu Liu, Hossein Rahmani, Nicu Sebe, Ajmal Mian
 - We present a comprehensive survey of deep learning-based object pose estimation methods. This survey covers all three problem formulations in the domain, including instance-level, category-level, and unseen object pose estimation. We hope to provide readers with a complete picture of the research progress of deep learning-based object pose estimation.
