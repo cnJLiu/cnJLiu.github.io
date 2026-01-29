@@ -15,7 +15,7 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 [*If you have excellent research for collaboration, feel free to get in touch!*](mailto:jianliu666.cn@gmail.com)
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 One paper get accepted by IEEE ICLR'26.
+- *2026.01*: &nbsp;🎉🎉 One paper get accepted by ICLR'26.
 - *2025.10*: &nbsp;🎉🎉 One paper get accepted by IJCV!
 - *2025.06*: &nbsp;🎉🎉 One paper get accepted by IEEE RAL.
 - *2025.05*: &nbsp;🎉🎉 We proposed a computation framework called [Neural Brain](https://arxiv.org/abs/2505.07634) for embodied agents through the lens of neuroscience, providing an innovative research perspective for embodied AI. Feel free to get in touch if you have any ideas.
