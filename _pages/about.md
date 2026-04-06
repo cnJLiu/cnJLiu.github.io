@@ -15,7 +15,7 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 [*If you have excellent research for collaboration, feel free to get in touch!*](mailto:jianliu666.cn@gmail.com)
 
 # 🔥 News
-<h2><a id="works-in-progress" class="anchor" href="#workinprogress" aria-hidden="true"><span class="octicon octicon-link"></span></a>News</h2>
+<!-- <h2><a id="works-in-progress" class="anchor" href="#workinprogress" aria-hidden="true"><span class="octicon octicon-link"></span></a>News</h2>
 <div id="news-container">
    <p style="margin:0"> <b>[Jan. 2026] One paper gets accepted by ICLR'26.</b> 
     <p style="margin:0"> <b>[Oct. 2025] One paper gets accepted by IJCV!</b> 
@@ -33,7 +33,7 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
     <p style="margin:0"> <b>[Feb. 2021] One paper is accepted by <a href="https://ieeexplore.ieee.org/abstract/document/9560756/">ICRA2021.</a></b> 
 </div>
 <h1> <h1>
-<hr>
+<hr> -->
 - *2026.01*: &nbsp;🎉🎉 One paper get accepted by ICLR'26.
 - *2025.10*: &nbsp;🎉🎉 One paper get accepted by IJCV!
 - *2025.06*: &nbsp;🎉🎉 One paper get accepted by IEEE RAL.
