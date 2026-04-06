@@ -96,17 +96,19 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 </div></div>
 
 # 🎖 Honors and Awards
-<!-- - *2024.11* Ph.D. National Scholarship.
+<!-- - *2024.11* PhD National Scholarship.
 - *2018.11* The National First Prize in "Higher Education Society Cup" National Undergraduate Mathematical Contest in Modeling (Top 1.5 %).
 - *2019.08* The National Second Prize in "RoboMaster2019" National Undergraduate Robotics Competition (Hosted by [DJI-Innovations](https://www.robomaster.com/en-US)).
 - *2018.06* Hong Kong "Zhong Huiming" Social Scholarship. -->
-- Ph.D. National Scholarship.
+- PhD National Scholarship.
+- HNU Outstanding PhD Thesis Award.
 - The National First Prize in "Higher Education Society Cup" National Undergraduate Mathematical Contest in Modeling (Top 1.5 %).
 - The National Second Prize in "RoboMaster" National Undergraduate Robotics Competition (Hosted by [DJI-Innovations](https://www.robomaster.com/en-US)).
 - Hong Kong "Zhong Huiming" Social Scholarship.
 
 # 📚 Editorial and Review Services
-Leading Guest Editor: [Electronics](https://www.mdpi.com/journal/electronics), Special Issue on "[Recent Advances in Robot Manipulation](https://www.mdpi.com/journal/electronics/special_issues/NAU56Y505W)"
+Leading Guest Editor: [Electronics](https://www.mdpi.com/journal/electronics), Special Issue on "Recent Advances in Robot Manipulation"
+<!-- Special Issue on "[Recent Advances in Robot Manipulation](https://www.mdpi.com/journal/electronics/special_issues/NAU56Y505W)" -->
 
 I serve as a reviewer for more than 20 journals/conferences, mainly including:
 - IEEE Transactions on Pattern Analysis and Machine Intelligence
