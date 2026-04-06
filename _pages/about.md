@@ -8,13 +8,31 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I completed my PhD in 2025 at the [National Engineering Research Center of Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/) of [Hunan University](https://www.hnu.edu.cn/), supervised by [Prof. Wei Sun](http://robotics.hnu.edu.cn/info/1176/2972.htm) and [Prof. Yaonan Wang](https://robotics.hnu.edu.cn/info/1176/3098.htm). From Aug. 2023 to Sep. 2024, I was a Visiting PhD Student at the Machine Intelligence Group of the [University of Western Australia](https://www.uwa.edu.au/), supervised by [Prof. Ajmal Mian](https://ajmalsaeed.net/). I also work closely with [Prof. Nicu Sebe](http://disi.unitn.it/~sebe/) and [Prof. Hossein Rahmani](https://sites.google.com/view/rahmaniatlu/).
+I completed my PhD at the [National Engineering Research Center of Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/) of [Hunan University](https://www.hnu.edu.cn/), supervised by [Prof. Wei Sun](http://robotics.hnu.edu.cn/info/1176/2972.htm) and [Prof. Yaonan Wang](https://robotics.hnu.edu.cn/info/1176/3098.htm). From Aug. 2023 to Sep. 2024, I was a Visiting PhD Student at the Machine Intelligence Group of the [University of Western Australia](https://www.uwa.edu.au/), supervised by [Prof. Ajmal Mian](https://ajmalsaeed.net/). I also work closely with [Prof. Nicu Sebe](http://disi.unitn.it/~sebe/) and [Prof. Hossein Rahmani](https://sites.google.com/view/rahmaniatlu/).
 
 My PhD research focuses on 3D machine vision and its applications for robotic manipulation. Subsequent research focuses include label-efficient learning for generalized robotic multimodal perception and embodied AI. I was motivated to conduct this research due to my passion for realizing generalizable perception, navigation, and manipulation of robots in physical space.
 
 [*If you have excellent research for collaboration, feel free to get in touch!*](mailto:jianliu666.cn@gmail.com)
 
 # 🔥 News
+<div id="news-container">
+   <p style="margin:0"> <b>[Jan. 2026] One paper (<a href="https://physx-anything.github.io/">PhysX-Anything</a>) is accepted by CVPR 2026.</b> 
+    <p style="margin:0"> <b>[Oct. 2025] I am awarded <a href="https://research.google/programs-and-events/phd-fellowship/recipients/">Google PhD Fellowship 2025</a> (Machine Perception).</b> 
+    <p style="margin:0"> <b>[Sep. 2025] One paper (<a href="https://physx-3d.github.io/">PhysX-3D</a>) is accepted by NeurIPS 2025 as <span style="color:red;">Spotlight</span>.</b> 
+    <p style="margin:0"> <b>[Feb. 2025] One paper (<a href="https://3dtopia.github.io/3DTopia-XL/">3DTopia-XL</a>) is accepted by CVPR2025 as <span style="color:red;">Highlight</span>.</b> 
+    <p style="margin:0"> <b>[May. 2024] One paper (<a href="https://github.com/ziangcao0312/DiffTF">DiffTF++</a>) is accepted by TPAMI.</b> 
+    <p style="margin:0"> <b>[Jan. 2024] One paper (<a href="https://ziangcao0312.github.io/difftf_pages/">DiffTF</a>) is accepted by ICLR.</b> 
+    <p style="margin:0"> <b>[Aug. 2023] One paper (<a href="https://github.com/vision4robotics/TCTrack">TCTrack++</a> ) is accepted by TPAMI.</b> 
+    <p style="margin:0"> <b>[Mar. 2022] Two papers (<a href="https://arxiv.org/abs/2203.01885">TCTrack</a> and <a href="https://ai4ce.github.io/EgoPAT3D/">EgoPAT3D</a>) are accepted by CVPR2022.</b> 
+    <p style="margin:0"> <b>[Feb. 2022] One paper is accepted by <a href="https://ieeexplore.ieee.org/abstract/document/9696362/">RA-L2022.</a></b> 
+    <p style="margin:0"> <b>[Feb. 2022] One paper is accepted by <a href="https://arxiv.org/abs/2203.01516">ICRA2022.</a></b> 
+    <p style="margin:0"> <b>[Aug. 2021] One paper (<a href="https://openaccess.thecvf.com/content/ICCV2021/html/Cao_HiFT_Hierarchical_Feature_Transformer_for_Aerial_Tracking_ICCV_2021_paper.html">HiFT</a>) is accepted by ICCV2021.</b> 
+    <p style="margin:0"> <b>[July. 2021] Two papers (<a href="https://arxiv.org/abs/2106.08816">SiamAPN++</a> and <a href="https://arxiv.org/abs/2107.14389">DarkLighter</a> ) are accepted by IROS2021.</b> 
+    <p style="margin:0"> <b>[May. 2021] One paper is accepted by <a href="https://ieeexplore.ieee.org/abstract/document/9477413">TGRS.</a></b> 
+    <p style="margin:0"> <b>[Feb. 2021] One paper is accepted by <a href="https://ieeexplore.ieee.org/abstract/document/9560756/">ICRA2021.</a></b> 
+</div>
+<h1> <h1>
+<hr>
 - *2026.01*: &nbsp;🎉🎉 One paper get accepted by ICLR'26.
 - *2025.10*: &nbsp;🎉🎉 One paper get accepted by IJCV!
 - *2025.06*: &nbsp;🎉🎉 One paper get accepted by IEEE RAL.
