@@ -15,12 +15,13 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 [*If you have excellent research for collaboration, feel free to get in touch!*](mailto:jianliu666.cn@gmail.com)
 
 # 🔥 News
+<h2><a id="works-in-progress" class="anchor" href="#workinprogress" aria-hidden="true"><span class="octicon octicon-link"></span></a>News</h2>
 <div id="news-container">
-   <p style="margin:0"> <b>[Jan. 2026] One paper (<a href="https://physx-anything.github.io/">PhysX-Anything</a>) is accepted by CVPR 2026.</b> 
-    <p style="margin:0"> <b>[Oct. 2025] I am awarded <a href="https://research.google/programs-and-events/phd-fellowship/recipients/">Google PhD Fellowship 2025</a> (Machine Perception).</b> 
-    <p style="margin:0"> <b>[Sep. 2025] One paper (<a href="https://physx-3d.github.io/">PhysX-3D</a>) is accepted by NeurIPS 2025 as <span style="color:red;">Spotlight</span>.</b> 
-    <p style="margin:0"> <b>[Feb. 2025] One paper (<a href="https://3dtopia.github.io/3DTopia-XL/">3DTopia-XL</a>) is accepted by CVPR2025 as <span style="color:red;">Highlight</span>.</b> 
-    <p style="margin:0"> <b>[May. 2024] One paper (<a href="https://github.com/ziangcao0312/DiffTF">DiffTF++</a>) is accepted by TPAMI.</b> 
+   <p style="margin:0"> <b>[Jan. 2026] One paper gets accepted by ICLR'26.</b> 
+    <p style="margin:0"> <b>[Oct. 2025] One paper gets accepted by IJCV!</b> 
+    <p style="margin:0"> <b>[Jun. 2025] One paper (<a href="https://physx-3d.github.io/">PhysX-3D</a>) is accepted by NeurIPS 2025 as <span style="color:red;">Spotlight</span>.</b> 
+    <p style="margin:0"> <b>[May. 2025] One paper (<a href="https://3dtopia.github.io/3DTopia-XL/">3DTopia-XL</a>) is accepted by CVPR2025 as <span style="color:red;">Highlight</span>.</b> 
+    <p style="margin:0"> <b>[Apr. 2025] One paper (<a href="https://github.com/ziangcao0312/DiffTF">DiffTF++</a>) is accepted by TPAMI.</b> 
     <p style="margin:0"> <b>[Jan. 2024] One paper (<a href="https://ziangcao0312.github.io/difftf_pages/">DiffTF</a>) is accepted by ICLR.</b> 
     <p style="margin:0"> <b>[Aug. 2023] One paper (<a href="https://github.com/vision4robotics/TCTrack">TCTrack++</a> ) is accepted by TPAMI.</b> 
     <p style="margin:0"> <b>[Mar. 2022] Two papers (<a href="https://arxiv.org/abs/2203.01885">TCTrack</a> and <a href="https://ai4ce.github.io/EgoPAT3D/">EgoPAT3D</a>) are accepted by CVPR2022.</b> 
