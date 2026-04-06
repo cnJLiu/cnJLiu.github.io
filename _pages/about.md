@@ -16,22 +16,22 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 
  
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 One paper get accepted by ICLR'26.
-- *2025.10*: &nbsp;🎉🎉 One paper get accepted by IJCV!
-- *2025.06*: &nbsp;🎉🎉 One paper get accepted by IEEE RAL.
-- *2025.05*: &nbsp;🎉🎉 We proposed a computation framework called [Neural Brain](https://arxiv.org/abs/2505.07634) for embodied agents through the lens of neuroscience, providing an innovative research perspective for embodied AI. Feel free to get in touch if you have any ideas.
-- *2025.04*: &nbsp;🎉🎉 One paper get accepted by IEEE RAL.
-- *2025.03*: &nbsp;🎉🎉 One paper get accepted by IEEE TPAMI!
-- *2025.03*: &nbsp;🎉🎉 One paper get accepted by IEEE TCyber.
-- *2025.02*: &nbsp;🎉🎉 One paper get accepted by IEEE ICRA'25.
-- *2024.09*: &nbsp;🎉🎉 One paper get accepted by IEEE IoT-J.
-- *2024.05*: &nbsp;🎉🎉 A comprehensive survey of deep learning-based object pose estimation was posted on [arXiv](https://arxiv.org/pdf/2405.07801v3). Feel free to contact us if you have any suggestions.
-- *2024.02*: &nbsp;🎉🎉 One paper get accepted by IEEE TII.
-- *2024.01*: &nbsp;🎉🎉 One paper get accepted by IEEE TNNLS.
-- *2024.01*: &nbsp;🎉🎉 One paper get accepted by IEEE TMC.
-- *2023.11*: &nbsp;🎉🎉 One paper get accepted by IEEE TIM.
-- *2023.02*: &nbsp;🎉🎉 One paper get accepted by IEEE TII.
-- *2022.06*: &nbsp;🎉🎉 One paper get accepted by IEEE TCSVT.
+- *Jan. 2026*: &nbsp;🎉🎉 One paper gets accepted by ICLR'26.
+- *Oct. 2025*: &nbsp;🎉🎉 One paper gets accepted by IJCV!
+- *Jun. 2025*: &nbsp;🎉🎉 One paper gets accepted by IEEE RAL.
+- *May. 2025*: &nbsp;🎉🎉 We proposed a computation framework called [Neural Brain](https://arxiv.org/abs/2505.07634) for embodied agents through the lens of neuroscience, providing an innovative research perspective for embodied AI. Feel free to get in touch if you have any ideas.
+- *Apr. 2025*: &nbsp;🎉🎉 One paper gets accepted by IEEE RAL.
+- *Mar. 2025*: &nbsp;🎉🎉 One paper gets accepted by IEEE TPAMI!
+- *Mar. 2025*: &nbsp;🎉🎉 One paper gets accepted by IEEE TCyber.
+- *Feb. 2025*: &nbsp;🎉🎉 One paper gets accepted by IEEE ICRA'25.
+- *Sep. 2024*: &nbsp;🎉🎉 One paper gets accepted by IEEE IoT-J.
+- *May. 2024*: &nbsp;🎉🎉 A comprehensive survey of deep learning-based object pose estimation was posted on [arXiv](https://arxiv.org/pdf/2405.07801v3). Feel free to contact us if you have any suggestions.
+- *Feb. 2024*: &nbsp;🎉🎉 One paper gets accepted by IEEE TII.
+- *Jan. 2024*: &nbsp;🎉🎉 One paper gets accepted by IEEE TNNLS.
+- *Jan. 2024*: &nbsp;🎉🎉 One paper gets accepted by IEEE TMC.
+- *Nov. 2023*: &nbsp;🎉🎉 One paper gets accepted by IEEE TIM.
+- *Feb. 2023*: &nbsp;🎉🎉 One paper gets accepted by IEEE TII.
+- *Jun. 2022*: &nbsp;🎉🎉 One paper gets accepted by IEEE TCSVT.
   
 # 📝 Selected Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2025</div><img src='images/paper6_512x512.png' alt="sym" width="100%">
