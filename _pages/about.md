@@ -25,7 +25,7 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 - ***Mar. 2025***: &nbsp;🎉🎉 One paper gets accepted by IEEE TCyber.
 - ***Feb. 2025***: &nbsp;🎉🎉 One paper gets accepted by IEEE ICRA'25.
 - ***Sep. 2024***: &nbsp;🎉🎉 One paper gets accepted by IEEE IoT-J.
-- ***May. 2024***: &nbsp;🎉🎉 A comprehensive survey of deep learning-based object pose estimation was posted on [**arXiv**](https://arxiv.org/pdf/2405.07801v3). Feel free to contact us if you have any suggestions.
+- ***May. 2024***: &nbsp;🎉🎉 A comprehensive survey of deep learning-based object pose estimation was posted on [**arXiv**](https://arxiv.org/pdf/2405.07801v4). Feel free to contact us if you have any suggestions.
 - ***Feb. 2024***: &nbsp;🎉🎉 One paper gets accepted by IEEE TII.
 - ***Jan. 2024***: &nbsp;🎉🎉 One paper gets accepted by IEEE TNNLS.
 - ***Jan. 2024***: &nbsp;🎉🎉 One paper gets accepted by IEEE TMC.
