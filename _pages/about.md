@@ -16,6 +16,7 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 
  
 # 🔥 News
+- ***Apr. 2026***: &nbsp;🎉🎉 One paper gets accepted by IEEE TRO!
 - ***Jan. 2026***: &nbsp;🎉🎉 One paper gets accepted by ICLR'26.
 - ***Oct. 2025***: &nbsp;🎉🎉 One paper gets accepted by IJCV!
 - ***Jun. 2025***: &nbsp;🎉🎉 One paper gets accepted by IEEE RAL.
@@ -34,6 +35,14 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 - ***Jun. 2022***: &nbsp;🎉🎉 One paper gets accepted by IEEE TCSVT.
   
 # 📝 Selected Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRO 2026</div><img src='images/paper5_512x512.png' alt="sym" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
+[Scalable Unseen Objects 6-DoF Absolute Pose Estimation with Robotic Integration](https://arxiv.org/abs/2503.05578v3) ([**Code**](https://github.com/CNJianLiu/SinRef-6D))\\
+**Jian Liu**, Wei Sun, Kai Zeng, Jin Zheng, Hui Yang, Hossein Rahmani, Ajmal Mian, Lin Wang
+<!-- - We propose a single reference view-based CAD model-free novel object 6D pose estimation method. SinRef-6D is simple yet effective and can simultaneously eliminate the need for object CAD models, dense reference views, and model retraining, offering enhanced efficiency and scalability while demonstrating strong generalization to potential real-world robotic applications. -->
+- We introduce an efficient and scalable task setup for unseen object 6D absolute pose estimation using only a single reference view captured during robotic manipulation, eliminating the need for object CAD models, dense reference views, and model retraining, offering enhanced efficiency and scalability while demonstrating strong generalization to real-world robotic applications. We further develop an integrated hardware-software robotic system tailored to the proposed task setup and framework, validating their efficacy in real-world scenarios.
+</div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2025</div><img src='images/paper6_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,14 +57,6 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 ([**Project Page**](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation))\\
 **Jian Liu**, Wei Sun, Hui Yang, Zhiwen Zeng, Chongpei Liu, Jin Zheng, Xingyu Liu, Hossein Rahmani, Nicu Sebe, Ajmal Mian
 - We present a comprehensive survey of deep learning-based object pose estimation methods. This survey covers all three problem formulations in the domain, including instance-level, category-level, and unseen object pose estimation. We hope to provide readers with a complete picture of the research progress of deep learning-based object pose estimation.
-</div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/paper5_512x512.png' alt="sym" width="100%">
-</div></div>
-<div class='paper-box-text' markdown="1">
-[Novel Object 6D Pose Estimation with a Single Reference View](https://arxiv.org/abs/2503.05578v3) ([**Code**](https://github.com/CNJianLiu/SinRef-6D))\\
-**Jian Liu**, Wei Sun, Kai Zeng, Jin Zheng, Hui Yang, Hossein Rahmani, Ajmal Mian, Lin Wang
-- We propose a single reference view-based CAD model-free novel object 6D pose estimation method. SinRef-6D is simple yet effective and can simultaneously eliminate the need for object CAD models, dense reference views, and model retraining, offering enhanced efficiency and scalability while demonstrating strong generalization to potential real-world robotic applications.
-<!-- - We introduce an efficient and scalable task setup for unseen object 6D absolute pose estimation using only a single reference view captured during robotic manipulation, eliminating the need for object CAD models, dense reference views, and model retraining, offering enhanced efficiency and scalability while demonstrating strong generalization to real-world robotic applications. We further develop an integrated hardware-software robotic system tailored to the proposed task setup and framework, validating their efficacy in real-world scenarios. -->
 </div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICRA'25</div><img src='images/paper7_512x512.png' alt="sym" width="100%">
 </div></div>
