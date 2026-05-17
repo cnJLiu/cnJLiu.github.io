@@ -20,6 +20,7 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 - ***Jan. 2026***: &nbsp;🎉🎉 One paper gets accepted by ICLR'26.
 - ***Oct. 2025***: &nbsp;🎉🎉 One paper gets accepted by IJCV!
 - ***Jun. 2025***: &nbsp;🎉🎉 One paper gets accepted by IEEE RAL.
+- ***May. 2025***: &nbsp;🎉🎉 We proposed a computation framework called [**Neural Brain**](https://arxiv.org/abs/2505.07634) for embodied agents through the lens of neuroscience, providing an innovative research perspective for embodied AI. Feel free to get in touch if you have any ideas.
 - ***Apr. 2025***: &nbsp;🎉🎉 One paper gets accepted by IEEE RAL.
 - ***Mar. 2025***: &nbsp;🎉🎉 One paper gets accepted by IEEE TPAMI!
 - ***Mar. 2025***: &nbsp;🎉🎉 One paper gets accepted by IEEE TCyber.
@@ -125,6 +126,7 @@ I serve as a reviewer for more than 20 journals/conferences, mainly including:
 - ACM Computing Surveys
 - Pattern Recognition
 - Neural Networks
+- Annual Conference on Neural Information Processing Systems (NeurIPS)
 - IEEE/CVF International Conference on Computer Vision (ICCV)
 - IEEE International Conference on Robotics and Automation (ICRA)
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
