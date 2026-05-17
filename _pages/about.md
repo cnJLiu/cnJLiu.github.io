@@ -109,6 +109,7 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 
 # 📚 Editorial and Review Services
 Invited Session Chair: The 41st Youth Academic Conference of Chinese Association of Automation (YAC2026)
+
 Leading Guest Editor: [Electronics](https://www.mdpi.com/journal/electronics), Special Issue on "Recent Advances in Robot Manipulation"
 <!-- Special Issue on "[Recent Advances in Robot Manipulation](https://www.mdpi.com/journal/electronics/special_issues/NAU56Y505W)" -->
 
