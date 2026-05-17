@@ -124,8 +124,6 @@ I serve as a reviewer for more than 20 journals/conferences, mainly including:
 - IEEE Transactions on Instrumentation and Measurement
 - IEEE Robotics and Automation Letters
 - ACM Computing Surveys
-- Pattern Recognition
-- Neural Networks
 - Annual Conference on Neural Information Processing Systems (NeurIPS)
 - IEEE/CVF International Conference on Computer Vision (ICCV)
 - IEEE International Conference on Robotics and Automation (ICRA)
