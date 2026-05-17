@@ -108,16 +108,19 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 - Hong Kong "Zhong Huiming" Social Scholarship.
 
 # 📚 Editorial and Review Services
+Invited Session Chair: The 41st Youth Academic Conference of Chinese Association of Automation (YAC2026)
 Leading Guest Editor: [Electronics](https://www.mdpi.com/journal/electronics), Special Issue on "Recent Advances in Robot Manipulation"
 <!-- Special Issue on "[Recent Advances in Robot Manipulation](https://www.mdpi.com/journal/electronics/special_issues/NAU56Y505W)" -->
 
 I serve as a reviewer for more than 20 journals/conferences, mainly including:
 - IEEE Transactions on Pattern Analysis and Machine Intelligence
+- International Journal of Robotics Research
 - IEEE Transactions on Image Processing
 - IEEE Transactions on Neural Networks and Learning Systems
-- IEEE Transactions on Industrial Informatics
-- IEEE Transactions on Circuits and Systems for Video Technology
 - IEEE/ASME Transactions on Mechatronics
+- IEEE Transactions on Industrial Informatics
+- IEEE Transactions on Industrial Electronics
+- IEEE Transactions on Circuits and Systems for Video Technology
 - IEEE Transactions on Automation Science and Engineering
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems
 - IEEE Transactions on Circuits and Systems I: Regular Papers
