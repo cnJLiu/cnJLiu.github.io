@@ -16,6 +16,8 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 
  
 # 🔥 News
+- ***Jun. 2026***: &nbsp;🎉🎉 One paper gets accepted by ECCV'26.
+- ***Jun. 2026***: &nbsp;🎉🎉 One paper gets accepted by IEEE TMM.
 - ***Apr. 2026***: &nbsp;🎉🎉 One paper gets accepted by IEEE TRO!
 - ***Jan. 2026***: &nbsp;🎉🎉 One paper gets accepted by ICLR'26.
 - ***Oct. 2025***: &nbsp;🎉🎉 One paper gets accepted by IJCV!
