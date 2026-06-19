@@ -24,7 +24,7 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
     <li><em>Jan. 2026</em>: &nbsp;🎉🎉 One paper gets accepted by ICLR'26.</li>
     <li><em>Oct. 2025</em>: &nbsp;🎉🎉 One paper gets accepted by IJCV!</li>
     <li><em>Jun. 2025</em>: &nbsp;🎉🎉 One paper gets accepted by IEEE RAL.</li>
-    <li><em>May. 2025</em>: &nbsp;🎉🎉 We proposed a computation framework called [**Neural Brain**](https://arxiv.org/abs/2505.07634) for embodied agents through the lens of neuroscience, providing an innovative research perspective for embodied AI. Feel free to get in touch if you have any ideas.</li>
+    <!-- <li><em>May. 2025</em>: &nbsp;🎉🎉 We proposed a computation framework called [**Neural Brain**](https://arxiv.org/abs/2505.07634) for embodied agents through the lens of neuroscience, providing an innovative research perspective for embodied AI. Feel free to get in touch if you have any ideas.</li> -->
     <li><em>Apr. 2025</em>: &nbsp;🎉🎉 One paper gets accepted by IEEE RAL.</li>
     <li><em>Mar. 2025</em>: &nbsp;🎉🎉 One paper gets accepted by IEEE TPAMI!</li>
     <li><em>Mar. 2025</em>: &nbsp;🎉🎉 One paper gets accepted by IEEE TCyber.</li>
