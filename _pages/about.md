@@ -16,24 +16,28 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 
  
 # 🔥 News
-- ***Jun. 2026***: &nbsp;🎉🎉 One paper gets accepted by ECCV'26.
-- ***Jun. 2026***: &nbsp;🎉🎉 One paper gets accepted by IEEE TMM.
-- ***Apr. 2026***: &nbsp;🎉🎉 One paper gets accepted by IEEE TRO!
-- ***Jan. 2026***: &nbsp;🎉🎉 One paper gets accepted by ICLR'26.
-- ***Oct. 2025***: &nbsp;🎉🎉 One paper gets accepted by IJCV!
-- ***Jun. 2025***: &nbsp;🎉🎉 One paper gets accepted by IEEE RAL.
-- ***May. 2025***: &nbsp;🎉🎉 We proposed a computation framework called [**Neural Brain**](https://arxiv.org/abs/2505.07634) for embodied agents through the lens of neuroscience, providing an innovative research perspective for embodied AI. Feel free to get in touch if you have any ideas.
-- ***Apr. 2025***: &nbsp;🎉🎉 One paper gets accepted by IEEE RAL.
-- ***Mar. 2025***: &nbsp;🎉🎉 One paper gets accepted by IEEE TPAMI!
-- ***Mar. 2025***: &nbsp;🎉🎉 One paper gets accepted by IEEE TCyber.
-- ***Feb. 2025***: &nbsp;🎉🎉 One paper gets accepted by IEEE ICRA'25.
-- ***Sep. 2024***: &nbsp;🎉🎉 One paper gets accepted by IEEE IoT-J.
-- ***Feb. 2024***: &nbsp;🎉🎉 One paper gets accepted by IEEE TII.
-- ***Jan. 2024***: &nbsp;🎉🎉 One paper gets accepted by IEEE TNNLS.
-- ***Jan. 2024***: &nbsp;🎉🎉 One paper gets accepted by IEEE TMC.
-- ***Nov. 2023***: &nbsp;🎉🎉 One paper gets accepted by IEEE TIM.
-- ***Feb. 2023***: &nbsp;🎉🎉 One paper gets accepted by IEEE TII.
-- ***Jun. 2022***: &nbsp;🎉🎉 One paper gets accepted by IEEE TCSVT.
+<div style="max-height:280px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
+  <ul>
+    <li><em>Jun. 2026</em>: &nbsp;🎉🎉 One paper gets accepted by ECCV'26.</li>
+    <li><em>Jun. 2026</em>: &nbsp;🎉🎉 One paper gets accepted by IEEE TMM.</li>
+    <li><em>Apr. 2026</em>: &nbsp;🎉🎉 One paper gets accepted by IEEE TRO!</li>
+    <li><em>Jan. 2026</em>: &nbsp;🎉🎉 One paper gets accepted by ICLR'26.</li>
+    <li><em>Oct. 2025</em>: &nbsp;🎉🎉 One paper gets accepted by IJCV!</li>
+    <li><em>Jun. 2025</em>: &nbsp;🎉🎉 One paper gets accepted by IEEE RAL.</li>
+    <li><em>May. 2025</em>: &nbsp;🎉🎉 We proposed a computation framework called [**Neural Brain**](https://arxiv.org/abs/2505.07634) for embodied agents through the lens of neuroscience, providing an innovative research perspective for embodied AI. Feel free to get in touch if you have any ideas.</li>
+    <li><em>Apr. 2025</em>: &nbsp;🎉🎉 One paper gets accepted by IEEE RAL.</li>
+    <li><em>Mar. 2025</em>: &nbsp;🎉🎉 One paper gets accepted by IEEE TPAMI!</li>
+    <li><em>Mar. 2025</em>: &nbsp;🎉🎉 One paper gets accepted by IEEE TCyber.</li>
+    <li><em>Feb. 2025</em>: &nbsp;🎉🎉 One paper gets accepted by IEEE ICRA'25.</li>
+    <li><em>Sep. 2024</em>: &nbsp;🎉🎉 One paper gets accepted by IEEE IoT-J.</li>
+    <li><em>Feb. 2024</em>: &nbsp;🎉🎉 One paper gets accepted by IEEE TII.</li>
+    <li><em>Jan. 2024</em>: &nbsp;🎉🎉 One paper gets accepted by IEEE TNNLS.</li>
+    <li><em>Jan. 2024</em>: &nbsp;🎉🎉 One paper gets accepted by IEEE TMC.</li>
+    <li><em>Nov. 2023</em>: &nbsp;🎉🎉 One paper gets accepted by IEEE TIM.</li>
+    <li><em>Feb. 2023</em>: &nbsp;🎉🎉 One paper gets accepted by IEEE TII.</li>
+    <li><em>Jun. 2022</em>: &nbsp;🎉🎉 One paper gets accepted by IEEE TCSVT.</li>
+  </ul>
+</div>
   
 # 📝 Selected Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TRO 2026</div><img src='images/paper5_512x512.png' alt="sym" width="100%">
