@@ -120,6 +120,7 @@ Leading Guest Editor: [Electronics](https://www.mdpi.com/journal/electronics), S
 <!-- Special Issue on "[Recent Advances in Robot Manipulation](https://www.mdpi.com/journal/electronics/special_issues/NAU56Y505W)" -->
 
 I serve as a reviewer for more than 20 journals/conferences, mainly including:
+- IEEE Transactions on Robotics
 - IEEE Transactions on Pattern Analysis and Machine Intelligence
 - International Journal of Robotics Research
 - IEEE Transactions on Image Processing
@@ -136,6 +137,7 @@ I serve as a reviewer for more than 20 journals/conferences, mainly including:
 - ACM Computing Surveys
 - Annual Conference on Neural Information Processing Systems (NeurIPS)
 - IEEE/CVF International Conference on Computer Vision (ICCV)
+- AAAI Conference on Artificial Intelligence (AAAI)
 - IEEE International Conference on Robotics and Automation (ICRA)
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
