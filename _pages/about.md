@@ -39,7 +39,7 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
   </ul>
 </div>
   
-# 📝 Selected Publications
+# 📝 Selected Recent Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TRO 2026</div><img src='images/paper5_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
@@ -55,7 +55,7 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 **Jian Liu**, Wei Sun, Hui Yang, Pengchao Deng, Chongpei Liu, Nicu Sebe, Hossein Rahmani, Ajmal Mian
 - We propose an effective diffusion model to redefine 9DoF object pose estimation from a generative perspective. Diff9D is a simple yet effective prior-free domain-generalized (sim2real) category-level 9DoF object pose generator. By employing the denoising diffusion implicit model, we demonstrate that the reverse diffusion process can be executed in as few as 3 steps, achieving near real-time performance.
 </div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/paper4_512x512.png' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2026</div><img src='images/paper4_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
 [Deep Learning-Based Object Pose Estimation: A Comprehensive Survey](https://link.springer.com/article/10.1007/s11263-025-02646-6)\\
@@ -70,14 +70,14 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 **Jian Liu**, Wei Sun, Hui Yang, Jin Zheng, Zichen Geng, Hossein Rahmani, Ajmal Mian
 - MonoDiff9D is an extension of [Diff9D](https://ieeexplore.ieee.org/document/10930708), aiming to achieve monocular category-level 9D object pose estimation via diffusion model conditioning on large vision model-based zero-shot depth recovery, without the need for shape priors or CAD models at any stage.
 </div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2024</div><img src='images/paper3_512x512.png' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2025</div><img src='images/paper3_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
 [MH6D: Multi-Hypothesis Consistency Learning for Category-Level 6D Object Pose Estimation](https://ieeexplore.ieee.org/document/10433529) ([**Code**](https://github.com/CNJianLiu/MH6D))\\
 **Jian Liu**, Wei Sun, Chongpei Liu, Hui Yang, Xing Zhang, Ajmal Mian
 - We propose a multi-hypothesis consistency learning framework for category-level 6D object pose estimation, which utilizes a parallel consistency learning structure, alleviating the uncertainty problem of single-shot feature extraction and promoting self-adaptation of domain to reduce the synthetic-to-real domain gap.
 </div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII 2023</div><img src='images/paper2_512x512.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII 2023</div><img src='images/paper2_512x512.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Robotic Continuous Grasping System by Shape Transformer-Guided Multi-Object Category-Level 6D Pose Estimation](https://ieeexplore.ieee.org/abstract/document/10043016) ([**Code**](https://github.com/CNJianLiu/6D-CLGrasp))\\
 **Jian Liu**, Wei Sun, Chongpei Liu, Xing Zhang, Qiang Fu
@@ -88,7 +88,7 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 [HFF6D: Hierarchical Feature Fusion Network for Robust 6D Object Pose Tracking](https://ieeexplore.ieee.org/abstract/document/9792223)\\
 **Jian Liu**, Wei Sun, Chongpei Liu, Xing Zhang, Shimeng Fan, Wei Wu
 - We propose a lightweight and robust hierarchical feature fusion network for 6D object pose tracking. It establishes sufficient spatial-temporal information interaction between adjacent frames and explicitly highlights the feature differences between adjacent frames, thus improving the robustness of relative pose estimation in challenging scenes.
-</div></div>
+</div></div> -->
  
 # 💻 Real-World Robotic Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/project1_512x512.png' alt="sym" width="100%"></div></div>
@@ -114,12 +114,14 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 - Hong Kong "Zhong Huiming" Social Scholarship.
 
 # 📚 Editorial and Review Services
+Leading Guest Editor: [Robotics](https://www.mdpi.com/journal/robotics), Special Issue on "Foundation Models for Robotics"
+
 Invited Session Chair: The 41st Youth Academic Conference of Chinese Association of Automation (YAC2026)
 
 Leading Guest Editor: [Electronics](https://www.mdpi.com/journal/electronics), Special Issue on "Recent Advances in Robot Manipulation"
 <!-- Special Issue on "[Recent Advances in Robot Manipulation](https://www.mdpi.com/journal/electronics/special_issues/NAU56Y505W)" -->
 
-I serve as a reviewer for more than 20 journals/conferences, mainly including:
+I serve as a reviewer for more than 30 journals/conferences, mainly including:
 - IEEE Transactions on Robotics
 - IEEE Transactions on Pattern Analysis and Machine Intelligence
 - International Journal of Robotics Research
