@@ -10,7 +10,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I received my PhD at the [National Engineering Research Center of Robot Visual Perception and Control Technology](http://robot.hnu.edu.cn/) of [Hunan University](https://www.hnu.edu.cn/), supervised by [Prof. Wei Sun](https://baike.baidu.com/item/%E5%AD%99%E7%82%9C/241837) and [Prof. Yaonan Wang](https://baike.baidu.com/item/%E7%8E%8B%E8%80%80%E5%8D%97/13478272?fromModule=lemma_search-box). From Aug. 2023 to Sep. 2024, I was a Visiting PhD Student at the Machine Intelligence Group of the [University of Western Australia](https://www.uwa.edu.au/), supervised by [Prof. Ajmal Mian](https://ajmalsaeed.net/). I also work closely with [Prof. Nicu Sebe](https://scholar.google.it/citations?user=stFCYOAAAAAJ&hl=en&oi=ao) and [Prof. Hossein Rahmani](https://sites.google.com/view/rahmaniatlu/).
 
-My PhD research focuses on 3D machine vision and its applications for robotic manipulation. Subsequent research focuses include label-efficient learning for generalized robotic multimodal perception and embodied AI. I was motivated to conduct this research due to my passion for realizing generalizable perception, navigation, and manipulation of robots in physical space.
+My PhD research focuses on 3D machine vision and its applications for robotic manipulation. Subsequent research focuses include generalizable robotic multimodal perception, navigation, and manipulation. I was motivated to pursue this research by my passion for enabling robots to work in physical space.
 
 [*If you have excellent research for collaboration, feel free to get in touch!*](mailto:jianliu666.cn@gmail.com)
 
