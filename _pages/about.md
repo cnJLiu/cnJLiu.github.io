@@ -16,7 +16,7 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 # 🔥 News
 <div style="max-height:280px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
   <ul>
-    <li><em>Jun. 2026</em>: &nbsp;🎉🎉 Three papers get accepted by NeurIPS'26.</li>
+    <li><em>Sep. 2026</em>: &nbsp;🎉🎉 Three papers get accepted by NeurIPS'26.</li>
     <li><em>Jun. 2026</em>: &nbsp;🎉🎉 One paper gets accepted by ECCV'26.</li>
     <li><em>Jun. 2026</em>: &nbsp;🎉🎉 One paper gets accepted by IEEE TMM.</li>
     <li><em>Apr. 2026</em>: &nbsp;🎉🎉 One paper gets accepted by IEEE TRO!</li>
