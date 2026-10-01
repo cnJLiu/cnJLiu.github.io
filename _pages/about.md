@@ -67,7 +67,7 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 <div class='paper-box-text' markdown="1">
 [GenCOPE: Syn2Real Generalized Category-Level Object Pose Estimation for Robotic Picking](https://ieeexplore.ieee.org/document/11127837) ([**Project Page**](https://paperreview99.github.io/GenCOPE/), [**Code**](https://github.com/CNJianLiu/GenCOPE))\\
 **Jian Liu**, Wei Sun, Zhenqi Dai, Hui Yang, Jian Xiao, Nicu Sebe, Na Zhao
-- We propose an efficient Syn2Real domain-generalized framework for category-level object pose estimation, which combines lightweight global feature extraction with 2D/3D semantic consistency and 2D-3D cross-consistency learning, alleviating the synthetic-to-real domain gap and facilitating scalable deployment in real-world robotic systems.
+- We propose a deployment-oriented Syn2Real domain-generalization framework for category-level object pose estimation, which bridges semantic invariance and geometric consistency across 2D and 3D modalities through lightweight global representations, reducing reliance on domain-specific local textures and enabling scalable robotic deployment in the real world.
 </div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS'25</div><img src='images/paper3_512x512.png' alt="sym" width="100%">
 </div></div>
