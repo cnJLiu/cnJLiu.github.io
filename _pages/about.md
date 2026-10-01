@@ -62,11 +62,11 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 **Jian Liu**, Wei Sun, Hui Yang, Zhiwen Zeng, Chongpei Liu, Jin Zheng, Xingyu Liu, Hossein Rahmani, Nicu Sebe, Ajmal Mian
 - We present a comprehensive survey of deep learning-based object pose estimation methods. This survey covers all three problem formulations in the domain, including instance-level, category-level, and unseen object pose estimation. We hope to provide readers with a complete picture of the research progress of deep learning-based object pose estimation.
 </div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICRA'25</div><img src='images/paper8_512x512.png' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'26</div><img src='images/paper8_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
-[MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model](https://ieeexplore.ieee.org/document/11127837) ([**Code**](https://github.com/CNJianLiu/MonoDiff9D))\\
-**Jian Liu**, Wei Sun, Hui Yang, Jin Zheng, Zichen Geng, Hossein Rahmani, Ajmal Mian
+[GenCOPE: Syn2Real Generalized Category-Level Object Pose Estimation for Robotic Picking](https://ieeexplore.ieee.org/document/11127837) ([**Project Page**](https://paperreview99.github.io/GenCOPE/), [**Code**](https://github.com/CNJianLiu/GenCOPE))\\
+**Jian Liu**, Wei Sun, Zhenqi Dai, Hui Yang, Jian Xiao, Nicu Sebe, Na Zhao
 - MonoDiff9D is an extension of [Diff9D](https://ieeexplore.ieee.org/document/10930708), aiming to achieve monocular category-level 9D object pose estimation via diffusion model conditioning on large vision model-based zero-shot depth recovery, without the need for shape priors or CAD models at any stage.
 </div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2025</div><img src='images/paper3_512x512.png' alt="sym" width="100%">
