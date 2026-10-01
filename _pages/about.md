@@ -39,7 +39,7 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 </div>
   
 # 📝 Selected Recent Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TRO 2026</div><img src='images/paper5_512x512.png' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRO'26</div><img src='images/paper5_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
 [Scalable Unseen Objects 6-DoF Absolute Pose Estimation with Robotic Integration](https://ieeexplore.ieee.org/abstract/document/11488938) ([**Project Page**](https://paperreview99.github.io/SinRef-6DoF-Robotic), [**Code**](https://github.com/CNJianLiu/SinRef-6D))\\
@@ -47,14 +47,14 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 <!-- - We propose a single reference view-based CAD model-free novel object 6D pose estimation method. SinRef-6D is simple yet effective and can simultaneously eliminate the need for object CAD models, dense reference views, and model retraining, offering enhanced efficiency and scalability while demonstrating strong generalization to potential real-world robotic applications. -->
 - We introduce an efficient and scalable task setup for unseen object 6DoF absolute pose estimation using only a single reference view captured during robotic manipulation, eliminating the need for object CAD models, dense reference views, and model retraining, offering enhanced efficiency and scalability while demonstrating strong generalization to real-world robotic applications. We further develop an integrated hardware-software robotic system tailored to the proposed task setup and framework, validating their efficacy in real-world scenarios.
 </div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2025</div><img src='images/paper6_512x512.png' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI'25</div><img src='images/paper6_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
 [Diff9D: Diffusion-Based Domain-Generalized Category-Level 9DoF Object Pose Estimation](https://ieeexplore.ieee.org/document/10930708) ([**Code**](https://github.com/CNJianLiu/Diff9D))\\
 **Jian Liu**, Wei Sun, Hui Yang, Pengchao Deng, Chongpei Liu, Nicu Sebe, Hossein Rahmani, Ajmal Mian
 - We propose an effective diffusion model to redefine 9DoF object pose estimation from a generative perspective. Diff9D is a simple yet effective prior-free domain-generalized (sim2real) category-level 9DoF object pose generator. By employing the denoising diffusion implicit model, we demonstrate that the reverse diffusion process can be executed in as few as 3 steps, achieving near real-time performance.
 </div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2026</div><img src='images/paper4_512x512.png' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV'26</div><img src='images/paper4_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
 [Deep Learning-Based Object Pose Estimation: A Comprehensive Survey](https://link.springer.com/article/10.1007/s11263-025-02646-6)\\
@@ -67,9 +67,9 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
 <div class='paper-box-text' markdown="1">
 [GenCOPE: Syn2Real Generalized Category-Level Object Pose Estimation for Robotic Picking](https://ieeexplore.ieee.org/document/11127837) ([**Project Page**](https://paperreview99.github.io/GenCOPE/), [**Code**](https://github.com/CNJianLiu/GenCOPE))\\
 **Jian Liu**, Wei Sun, Zhenqi Dai, Hui Yang, Jian Xiao, Nicu Sebe, Na Zhao
-- MonoDiff9D is an extension of [Diff9D](https://ieeexplore.ieee.org/document/10930708), aiming to achieve monocular category-level 9D object pose estimation via diffusion model conditioning on large vision model-based zero-shot depth recovery, without the need for shape priors or CAD models at any stage.
+- We propose an efficient Syn2Real domain-generalized framework for category-level object pose estimation, which combines lightweight global feature extraction with 2D/3D semantic consistency and 2D-3D cross-consistency learning, alleviating the synthetic-to-real domain gap and facilitating scalable deployment in real-world robotic systems.
 </div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2025</div><img src='images/paper3_512x512.png' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS'25</div><img src='images/paper3_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
 [MH6D: Multi-Hypothesis Consistency Learning for Category-Level 6D Object Pose Estimation](https://ieeexplore.ieee.org/document/10433529) ([**Code**](https://github.com/CNJianLiu/MH6D))\\
