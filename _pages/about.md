@@ -38,7 +38,7 @@ My PhD research focuses on 3D machine vision and its applications for robotic ma
   </ul>
 </div>
   
-# 📝 Selected Recent Publications
+# 📝 Recent Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRO'26</div><img src='images/paper5_512x512.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
