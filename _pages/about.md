@@ -12,7 +12,6 @@ I received my PhD at the [National Engineering Research Center of Robot Visual P
 
 My PhD research focuses on 3D machine vision and its applications for robotic manipulation. Subsequent research focuses include generalizable robotic multimodal perception, navigation, and manipulation. I was motivated to pursue this research by my passion for enabling robots to work in physical space. [*If you have excellent research for collaboration, feel free to get in touch!*](mailto:jianliu666.cn@gmail.com)
 
- 
 # 🔥 News
 <div style="max-height:280px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
   <ul>
